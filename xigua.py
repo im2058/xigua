@@ -14,12 +14,12 @@ url = 'https://www.365yg.com/c/user/6597794261/'
 
 f = open('usr.json','r')
 data = json.loads(f.read())
-log = open('logfile','w')
+log = open('index','w')
 tm= time.strftime('%m-%d',time.localtime(time.time()))
 browser.get(data[0]["url"])
 content = browser.page_source
-pattern = re.compile('.*?video-time">(.*?)</span.*?href="/item/(.*?)/" tar.*?img-duration">(.*?)</span.*?',re.S)
-items = re.findall(pattern,content)
+#pattern = re.compile('.*?video-time">(.*?)</span.*?href="/item/(.*?)/" tar.*?img-duration">(.*?)</span.*?',re.S)
+#items = re.findall(pattern,content)
 #print(items)
 #for i in items:
 #        url1 = str(urlb)+str(i)
@@ -35,5 +35,6 @@ items = re.findall(pattern,content)
 #        img_url = re.findall(pattern1,content1)
 #   print(i)
 #log.write(str(i)+'\n')
-log.write(items)
+#log.write(items)
+log.write(content)
 log.close()
