@@ -1,0 +1,236 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><title>西瓜视频 - 原头条视频, 唯一官方网站</title><meta http-equiv="x-dns-prefetch-control" content="on"><meta name="description" content="全球领先的在线短视频网站, 搞笑游戏音乐育儿应有尽有。"><meta name="keywords" content="西瓜视频,视频,短视频,原创视频,今日头条,西瓜视频官网"><script type="text/javascript" async="" charset="utf-8" src="https://c.cnzz.com/core.php?web_id=1262382642&amp;t=z"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script>window.__taStartTime = new Date().getTime();</script><link rel="dns-prefetch" href="//s3.pstatp.com/"><link rel="dns-prefetch" href="//s3a.pstatp.com/"><link rel="dns-prefetch" href="//s3b.pstatp.com"><link rel="dns-prefetch" href="//p1.pstatp.com/"><link rel="dns-prefetch" href="//p3.pstatp.com/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no,minimal-ui"><meta name="baidu-site-verification" content="yNwzqSLMKc"><meta name="domain_verify" content="pmrgi33nmfuw4ir2ej2g65lunfqw6ltdn5wselbcm52wszbchirdqyztge3tenrsgq3dknjume2tayrvmqytemlfmiydimddgu4gcnzcfqrhi2lnmvjwc5tfei5dcnbwhazdcobuhe2dqobrpu"><link rel="shortcut icon" href="//s3.pstatp.com/toutiao/xigua_cdn/ixigua.ico" type="image/x-icon"><meta name="pathname" content="ixigua_pc.profile_video"><meta name="slardar-id" content="ixigua_pc.profile_video"><link rel="stylesheet" href="//s3a.pstatp.com/toutiao/xigua_video/pc/static/css/page/profile-video/profile-video.7d71b88b4ab7df6e8f46ecac7136fd17.css"><script>!function(e){function a(c){if(t[c])return t[c].exports;var f=t[c]={exports:{},id:c,loaded:!1};return e[c].call(f.exports,f,f.exports,a),f.loaded=!0,f.exports}var c=window.webpackJsonp;window.webpackJsonp=function(o,r){for(var d,n,p=0,i=[];p<o.length;p++)n=o[p],f[n]&&i.push.apply(i,f[n]),f[n]=0;for(d in r)Object.prototype.hasOwnProperty.call(r,d)&&(e[d]=r[d]);for(c&&c(o,r);i.length;)i.shift().call(null,a);if(r[0])return t[0]=0,a(0)};var t={},f={0:0};a.e=function(e,c){if(0===f[e])return c.call(null,a);if(void 0!==f[e])f[e].push(c);else{f[e]=[c];var t=document.getElementsByTagName("head")[0],o=document.createElement("script");o.type="text/javascript",o.charset="utf-8",o.async=!0,o.src=a.p+"static/js/"+e+"."+{1:"584df7606d8ef399e77e",2:"e915d27a37c960b909ac",3:"9b5e781466aef47bc075",4:"79fcffcb77774e7a8106",5:"47d670c2cd24de933e5b",6:"ccf4a7610e895e26664b",7:"d59bff6ba84f602a9c57",8:"81876e7884a816412a7a",9:"0d49e08312dc5f1f930c",10:"5259fff1856b02d82ade",11:"a8ce9e53e1c641791c2b",12:"daa74cea366cc1e2f675",13:"722454ffd78b8a83bb39"}[e]+".js",t.appendChild(o)}},a.m=e,a.c=t,a.p="/toutiao/xigua_video/pc/",a.p="//s3.pstatp.com/toutiao/xigua_video/pc/"}([]);</script><style type="text/css">@-webkit-keyframes resizeanim { from { opacity: 0; } to { opacity: 0; } } 
+      .resize-triggers { -webkit-animation: 1ms resizeanim; visibility: hidden; opacity: 0; }
+      .resize-triggers, .resize-triggers > div, .contract-trigger:before { content: " "; display: block; position: absolute; top: 0; left: 0; height: 100%; width: 100%; overflow: hidden; }
+      .resize-triggers > div { background: #eee; overflow: auto; }
+      .contract-trigger:before { width: 200%; height: 200%; }</style></head><body><div data-v-7a13d36c="" id="profile-page"><div data-v-7a13d36c="" class="header"><div class="topbar"><div class="bui-left clearfix"><a href="//www.ixigua.com/app/" target="_blank" ga_event="mh_nav_others" class="download-app tb-link">下载APP</a> <div class="weather-tool"><div class="weather-abstract"><span>&nbsp;北京</span> <span class="city_state">阴</span> <span class="city_temperature"><em>11</em>° &nbsp;/&nbsp; <em>17</em>°
+    </span> <i class="bui-icon icon-arrow_down" style="font-size: 14px; color: rgb(255, 255, 255);"></i></div> <div class="y-weather" style="display: none;"><div class="w-header"><span ga_event="mh_change_city" class="bui-icon icon-locationweather bui-vm">&nbsp;北京</span> <span class="wind bui-vm">东北风1级</span> <span class="air vm" style="background-color: rgb(255, 159, 45);">中度&nbsp;178</span></div> <ul class="days-weather"><li class="bui-left day"><span class="title">今天</span> <div class="weather-icon weather-icon-2" title="阴"></div> <span class="temperature"><em>11</em>°
+            /
+            <em>17</em>°
+        </span></li> <li class="bui-left day"><span class="title">明天</span> <div class="weather-icon weather-icon-1" title="多云转晴"></div> <span class="temperature"><em>7</em>°
+            /
+            <em>17</em>°
+        </span></li> <li class="bui-left day"><span class="title">后天</span> <div class="weather-icon weather-icon-0" title="晴"></div> <span class="temperature"><em>5</em>°
+            /
+            <em>17</em>°
+        </span></li></ul></div></div></div> <div class="bui-right"><ul class="user-nav-list clearfix"><li><a href="/game/" target="_blank" class="tb-link">游戏</a></li> <li><a href="https://ad.toutiao.com/self_service/" target="_blank" class="tb-link">我想投广告</a></li> <!----> <li class="nav-login"><a href="https://sso.toutiao.com/login/?service=https://www.ixigua.com" class="tb-link">登录</a></li> <li><a href="//mp.toutiao.com/profile_v3/xigua" target="_blank" class="tb-link">上传视频</a></li> <li><a href="//live.ixigua.com/" target="_blank" class="tb-link">我要开播</a></li></ul></div> <!----></div></div> <div data-v-7a13d36c="" class="banner"><div class="site-banner"><a href="//www.ixigua.com" class="site-banner__wrapper"><img src="//s3.pstatp.com/toutiao/xigua_video/pc/static/img/logo.9ba0c9f.png" alt="" class="site-banner__icon"></a> <div class="site-banner__search-box"><div class="input-wrapper" searchurl="/search/?keyword="><div class="tt-autocomplete"><div class="tt-input"><!----> <i class="tt-input__icon bui-icon icon-search is-clickable" style="font-size: 18px;"></i> <input type="text" placeholder="大家都在搜：范冰冰露面" autocomplete="off" class="tt-input__inner"> <!----> <!----></div> <div class="tt-autocomplete-suggestion" style="display: none;"><div class="tt-scrollbar"><div class="tt-autocomplete-suggestion__wrap tt-scrollbar__wrap" style="margin-bottom: -16px; margin-right: -16px;"><ul class="tt-scrollbar__view tt-autocomplete-suggestion__list" style="position: relative;"><div class="resize-triggers"><div class="expand-trigger"><div style="width: 1px; height: 1px;"></div></div><div class="contract-trigger"></div></div></ul></div><div class="tt-scrollbar__bar is-horizontal"><div class="tt-scrollbar__thumb" style="-webkit-transform: translateX(0%);"></div></div><div class="tt-scrollbar__bar is-vertical"><div class="tt-scrollbar__thumb" style="-webkit-transform: translateY(0%);"></div></div></div></div></div></div></div></div></div> <div data-v-7a13d36c="" class="profile-content-wrapper"><div data-v-7a13d36c="" class="profile-owner"><a href="/c/user/6597794261/" class="profile-owner__bg-picture"><img src="https://s2.pstatp.com/site/promotion/landing_page/img/profilebg@2x_55d77b9bc7f26237f8512ee5d551ffd6.png"></a> <a data-v-e7c17c18="" target="_blank" href="/c/user/6597794261/" class="profile-image profile-owner__avatar" style="width: 102px; height: 102px;"><img data-v-e7c17c18="" src="https://p3.pstatp.com/thumb/bc3000116d452c4cb4d" alt="" class="profile-image__image"></a> <div class="profile-owner__info"><a href="/c/user/6597794261/" class="profile-name"><h3 class="profile-name__name">
+    江湖象棋残局天地
+    <i class="bui-icon icon-symbolv" style="font-size: 20px; color: rgb(254, 195, 70);"></i></h3></a> <a href="/c/user/6597794261/" class="profile-owner__info__description">江湖象棋残局，陷阱圈套迭出，实用象棋残局，丝丝入扣，绵里藏针</a> <div class="profile-owner__info__follow-button follow-button__banner--front"><span class="follow-button__banner--front-text"><i class="bui-icon icon-add_small"></i>关注</span></div></div></div> <div data-v-7a13d36c="" class="content-left"><div data-v-7a13d36c="" class="profile-tabs tt-tabs"><div class="tt-tabs__header"><div class="tt-tabs__nav-wrap"><div class="tt-tabs__nav-scroll"><div class="tt-tabs__nav"><div class="tt-tabs__active-bar" style="width: 0px; -webkit-transform: translateX(0px);"></div><div class="tt-tabs__item is-active">视频</div></div></div></div></div><div class="tt-tabs__content"><div class="tt-tab-pane"><ul infinite-scroll-disabled="disableScroll" infinite-scroll-distance="80" class="profile-video-list"><li class="profile-video-list__card-list__wrapper"><div class="card-container"><div class="video-img"><a href="/item/6612506135880532494/" target="_blank" class="img-wrap" style="width: 158px; height: 102px;"><img src="https://p3.pstatp.com/list/pgc-image/153959404326258593952ab" class="lazy-load-img"> <i class="pic-tip video-tip"><span class="video-icon"></span> <span class="img-duration">06:07</span></i></a></div> <div class="video-info"><div class="video-info__wrapper"><div class="video-info__content"><div class="video-info__description"><a href="/item/6612506135880532494/" target="_blank" class="description-wrapper"><span class="video-description">天然去雕饰，象棋对弈最高的境界是顺其自然，但是一般人做不到！</span></a></div> <div class="video-info__footer"><span class="video-footer"><span><a href="/item/6612506135880532494/" target="_blank" class="video-info__readTimes"><span>6916播放</span></a>
+          ·
+        </span> <a href="/item/6612506135880532494/#comment" target="_blank" class="comment"><span>6评论</span></a>
+        ·
+        <span class="video-time">2018-10-15 17:00</span> <div data-v-3e7e5b4c="" class="profile-button--delete video-footer__profile-button" style="display: none;"><i data-v-3e7e5b4c="" class="bui-icon icon-delete" style="font-size: 14px; color: rgb(128, 128, 128);"></i>
+  删除
+</div></span></div></div></div></div></div></li><li class="profile-video-list__card-list__wrapper"><div class="card-container"><div class="video-img"><a href="/item/6612469807918875144/" target="_blank" class="img-wrap" style="width: 158px; height: 102px;"><img src="https://p3.pstatp.com/list/pgc-image/1539585547345790335f41b" class="lazy-load-img"> <i class="pic-tip video-tip"><span class="video-icon"></span> <span class="img-duration">03:59</span></i></a></div> <div class="video-info"><div class="video-info__wrapper"><div class="video-info__content"><div class="video-info__description"><a href="/item/6612469807918875144/" target="_blank" class="description-wrapper"><span class="video-description">黑炮被牵没抵抗，看看民间高手是如何摆设龙门阵，一举拿下黑方</span></a></div> <div class="video-info__footer"><span class="video-footer"><span><a href="/item/6612469807918875144/" target="_blank" class="video-info__readTimes"><span>106播放</span></a>
+          ·
+        </span> <a href="/item/6612469807918875144/#comment" target="_blank" class="comment"><span>2评论</span></a>
+        ·
+        <span class="video-time">2018-10-15 16:57</span> <div data-v-3e7e5b4c="" class="profile-button--delete video-footer__profile-button" style="display: none;"><i data-v-3e7e5b4c="" class="bui-icon icon-delete" style="font-size: 14px; color: rgb(128, 128, 128);"></i>
+  删除
+</div></span></div></div></div></div></div></li><li class="profile-video-list__card-list__wrapper"><div class="card-container"><div class="video-img"><a href="/item/6606596056245338632/" target="_blank" class="img-wrap" style="width: 158px; height: 102px;"><img src="https://p3.pstatp.com/list/pgc-image/15395903742021c0ce3617f" class="lazy-load-img"> <i class="pic-tip video-tip"><span class="video-icon"></span> <span class="img-duration">06:22</span></i></a></div> <div class="video-info"><div class="video-info__wrapper"><div class="video-info__content"><div class="video-info__description"><a href="/item/6606596056245338632/" target="_blank" class="description-wrapper"><span class="video-description">天炮地炮巧妙杀，这棋下的怎么这么好呢，想不到象棋残局还有如此</span></a></div> <div class="video-info__footer"><span class="video-footer"><span><a href="/item/6606596056245338632/" target="_blank" class="video-info__readTimes"><span>295播放</span></a>
+          ·
+        </span> <a href="/item/6606596056245338632/#comment" target="_blank" class="comment"><span>2评论</span></a>
+        ·
+        <span class="video-time">2018-10-15 15:24</span> <div data-v-3e7e5b4c="" class="profile-button--delete video-footer__profile-button" style="display: none;"><i data-v-3e7e5b4c="" class="bui-icon icon-delete" style="font-size: 14px; color: rgb(128, 128, 128);"></i>
+  删除
+</div></span></div></div></div></div></div></li><li class="profile-video-list__card-list__wrapper"><div class="card-container"><div class="video-img"><a href="/item/6612470019118858755/" target="_blank" class="img-wrap" style="width: 158px; height: 102px;"><img src="https://p1.pstatp.com/list/pgc-image/1539585169231714b2197b9" class="lazy-load-img"> <i class="pic-tip video-tip"><span class="video-icon"></span> <span class="img-duration">05:35</span></i></a></div> <div class="video-info"><div class="video-info__wrapper"><div class="video-info__content"><div class="video-info__description"><a href="/item/6612470019118858755/" target="_blank" class="description-wrapper"><span class="video-description">黑车无路顿足捶胸，艺人靠这盘江湖残局纵横棋场，骗子招法想不到</span></a></div> <div class="video-info__footer"><span class="video-footer"><span><a href="/item/6612470019118858755/" target="_blank" class="video-info__readTimes"><span>14252播放</span></a>
+          ·
+        </span> <a href="/item/6612470019118858755/#comment" target="_blank" class="comment"><span>10评论</span></a>
+        ·
+        <span class="video-time">2018-10-15 15:24</span> <div data-v-3e7e5b4c="" class="profile-button--delete video-footer__profile-button" style="display: none;"><i data-v-3e7e5b4c="" class="bui-icon icon-delete" style="font-size: 14px; color: rgb(128, 128, 128);"></i>
+  删除
+</div></span></div></div></div></div></div></li><li class="profile-video-list__card-list__wrapper"><div class="card-container"><div class="video-img"><a href="/item/6606594075162313230/" target="_blank" class="img-wrap" style="width: 158px; height: 102px;"><img src="https://p98.pstatp.com/list/pgc-image/15382171667314d7753a573" class="lazy-load-img"> <i class="pic-tip video-tip"><span class="video-icon"></span> <span class="img-duration">02:34</span></i></a></div> <div class="video-info"><div class="video-info__wrapper"><div class="video-info__content"><div class="video-info__description"><a href="/item/6606594075162313230/" target="_blank" class="description-wrapper"><span class="video-description">天炮地炮大绝杀，江湖客摆的象棋残局，许多棋友认为黑方不败能胜</span></a></div> <div class="video-info__footer"><span class="video-footer"><span><a href="/item/6606594075162313230/" target="_blank" class="video-info__readTimes"><span>2726播放</span></a>
+          ·
+        </span> <a href="/item/6606594075162313230/#comment" target="_blank" class="comment"><span>2评论</span></a>
+        ·
+        <span class="video-time">2018-10-15 13:40</span> <div data-v-3e7e5b4c="" class="profile-button--delete video-footer__profile-button" style="display: none;"><i data-v-3e7e5b4c="" class="bui-icon icon-delete" style="font-size: 14px; color: rgb(128, 128, 128);"></i>
+  删除
+</div></span></div></div></div></div></div></li><li class="profile-video-list__card-list__wrapper"><div class="card-container"><div class="video-img"><a href="/item/6611302282426319363/" target="_blank" class="img-wrap" style="width: 158px; height: 102px;"><img src="https://p3.pstatp.com/list/pgc-image/1539313322361d6bed38147" class="lazy-load-img"> <i class="pic-tip video-tip"><span class="video-icon"></span> <span class="img-duration">07:54</span></i></a></div> <div class="video-info"><div class="video-info__wrapper"><div class="video-info__content"><div class="video-info__description"><a href="/item/6611302282426319363/" target="_blank" class="description-wrapper"><span class="video-description">车马炮连杀威力增，路边象棋残局精选，民间艺人走子招法环环相扣</span></a></div> <div class="video-info__footer"><span class="video-footer"><span><a href="/item/6611302282426319363/" target="_blank" class="video-info__readTimes"><span>4059播放</span></a>
+          ·
+        </span> <a href="/item/6611302282426319363/#comment" target="_blank" class="comment"><span>3评论</span></a>
+        ·
+        <span class="video-time">2018-10-15 13:39</span> <div data-v-3e7e5b4c="" class="profile-button--delete video-footer__profile-button" style="display: none;"><i data-v-3e7e5b4c="" class="bui-icon icon-delete" style="font-size: 14px; color: rgb(128, 128, 128);"></i>
+  删除
+</div></span></div></div></div></div></div></li><li class="profile-video-list__card-list__wrapper"><div class="card-container"><div class="video-img"><a href="/item/6606593832379220483/" target="_blank" class="img-wrap" style="width: 158px; height: 102px;"><img src="https://p3.pstatp.com/list/pgc-image/153821715280285df053ba0" class="lazy-load-img"> <i class="pic-tip video-tip"><span class="video-icon"></span> <span class="img-duration">02:51</span></i></a></div> <div class="video-info"><div class="video-info__wrapper"><div class="video-info__content"><div class="video-info__description"><a href="/item/6606593832379220483/" target="_blank" class="description-wrapper"><span class="video-description">天地炮马后炮双杀之局，红方竟然弃车不顾，实在让人难以想象</span></a></div> <div class="video-info__footer"><span class="video-footer"><span><a href="/item/6606593832379220483/" target="_blank" class="video-info__readTimes"><span>2937播放</span></a>
+          ·
+        </span> <a href="/item/6606593832379220483/#comment" target="_blank" class="comment"><span>3评论</span></a>
+        ·
+        <span class="video-time">2018-10-15 12:04</span> <div data-v-3e7e5b4c="" class="profile-button--delete video-footer__profile-button" style="display: none;"><i data-v-3e7e5b4c="" class="bui-icon icon-delete" style="font-size: 14px; color: rgb(128, 128, 128);"></i>
+  删除
+</div></span></div></div></div></div></div></li><li class="profile-video-list__card-list__wrapper"><div class="card-container"><div class="video-img"><a href="/item/6611302431458329102/" target="_blank" class="img-wrap" style="width: 158px; height: 102px;"><img src="https://p9.pstatp.com/list/pgc-image/1539313330178d1e82ff213" class="lazy-load-img"> <i class="pic-tip video-tip"><span class="video-icon"></span> <span class="img-duration">04:27</span></i></a></div> <div class="video-info"><div class="video-info__wrapper"><div class="video-info__content"><div class="video-info__description"><a href="/item/6611302431458329102/" target="_blank" class="description-wrapper"><span class="video-description">车马联攻杀棋多多，一个大师水准的江湖残局，棋中看似简单易破</span></a></div> <div class="video-info__footer"><span class="video-footer"><span><a href="/item/6611302431458329102/" target="_blank" class="video-info__readTimes"><span>2373播放</span></a>
+          ·
+        </span> <a href="/item/6611302431458329102/#comment" target="_blank" class="comment"><span>4评论</span></a>
+        ·
+        <span class="video-time">2018-10-15 12:04</span> <div data-v-3e7e5b4c="" class="profile-button--delete video-footer__profile-button" style="display: none;"><i data-v-3e7e5b4c="" class="bui-icon icon-delete" style="font-size: 14px; color: rgb(128, 128, 128);"></i>
+  删除
+</div></span></div></div></div></div></div></li><li class="profile-video-list__card-list__wrapper"><div class="card-container"><div class="video-img"><a href="/item/6606593555064422925/" target="_blank" class="img-wrap" style="width: 158px; height: 102px;"><img src="https://p3.pstatp.com/list/pgc-image/1538217116175795b1b4476" class="lazy-load-img"> <i class="pic-tip video-tip"><span class="video-icon"></span> <span class="img-duration">03:37</span></i></a></div> <div class="video-info"><div class="video-info__wrapper"><div class="video-info__content"><div class="video-info__description"><a href="/item/6606593555064422925/" target="_blank" class="description-wrapper"><span class="video-description">土字排局马后炮杀棋，测试棋友水平象棋残局，看看多长时间能破解</span></a></div> <div class="video-info__footer"><span class="video-footer"><span><a href="/item/6606593555064422925/" target="_blank" class="video-info__readTimes"><span>2756播放</span></a>
+          ·
+        </span> <a href="/item/6606593555064422925/#comment" target="_blank" class="comment"><span>2评论</span></a>
+        ·
+        <span class="video-time">2018-10-15 10:10</span> <div data-v-3e7e5b4c="" class="profile-button--delete video-footer__profile-button" style="display: none;"><i data-v-3e7e5b4c="" class="bui-icon icon-delete" style="font-size: 14px; color: rgb(128, 128, 128);"></i>
+  删除
+</div></span></div></div></div></div></div></li><li class="profile-video-list__card-list__wrapper"><div class="card-container"><div class="video-img"><a href="/item/6611302619015021069/" target="_blank" class="img-wrap" style="width: 158px; height: 102px;"><img src="https://p99.pstatp.com/list/pgc-image/1539313334282d0d9f1d7a1" class="lazy-load-img"> <i class="pic-tip video-tip"><span class="video-icon"></span> <span class="img-duration">05:11</span></i></a></div> <div class="video-info"><div class="video-info__wrapper"><div class="video-info__content"><div class="video-info__description"><a href="/item/6611302619015021069/" target="_blank" class="description-wrapper"><span class="video-description">车马被牵妙招成和棋，象棋残局中的精品，一般人难以掌握其中奥秘</span></a></div> <div class="video-info__footer"><span class="video-footer"><span><a href="/item/6611302619015021069/" target="_blank" class="video-info__readTimes"><span>4196播放</span></a>
+          ·
+        </span> <a href="/item/6611302619015021069/#comment" target="_blank" class="comment"><span>2评论</span></a>
+        ·
+        <span class="video-time">2018-10-15 10:10</span> <div data-v-3e7e5b4c="" class="profile-button--delete video-footer__profile-button" style="display: none;"><i data-v-3e7e5b4c="" class="bui-icon icon-delete" style="font-size: 14px; color: rgb(128, 128, 128);"></i>
+  删除
+</div></span></div></div></div></div></div></li><li class="profile-video-list__card-list__wrapper"><div class="card-container"><div class="video-img"><a href="/item/6606593250755084804/" target="_blank" class="img-wrap" style="width: 158px; height: 102px;"><img src="https://p3.pstatp.com/list/pgc-image/15382171045319eab1338da" class="lazy-load-img"> <i class="pic-tip video-tip"><span class="video-icon"></span> <span class="img-duration">05:56</span></i></a></div> <div class="video-info"><div class="video-info__wrapper"><div class="video-info__content"><div class="video-info__description"><a href="/item/6606593250755084804/" target="_blank" class="description-wrapper"><span class="video-description">图美招妙连续杀棋，街头象棋残局破解，各种骗着无处藏身</span></a></div> <div class="video-info__footer"><span class="video-footer"><span><a href="/item/6606593250755084804/" target="_blank" class="video-info__readTimes"><span>1207播放</span></a>
+          ·
+        </span> <a href="/item/6606593250755084804/#comment" target="_blank" class="comment"><span>2评论</span></a>
+        ·
+        <span class="video-time">2018-10-15 8:48</span> <div data-v-3e7e5b4c="" class="profile-button--delete video-footer__profile-button" style="display: none;"><i data-v-3e7e5b4c="" class="bui-icon icon-delete" style="font-size: 14px; color: rgb(128, 128, 128);"></i>
+  删除
+</div></span></div></div></div></div></div></li><li class="profile-video-list__card-list__wrapper"><div class="card-container"><div class="video-img"><a href="/item/6611302767799566856/" target="_blank" class="img-wrap" style="width: 158px; height: 102px;"><img src="https://p3.pstatp.com/list/pgc-image/1539313339421a61b4ccc12" class="lazy-load-img"> <i class="pic-tip video-tip"><span class="video-icon"></span> <span class="img-duration">03:55</span></i></a></div> <div class="video-info"><div class="video-info__wrapper"><div class="video-info__content"><div class="video-info__description"><a href="/item/6611302767799566856/" target="_blank" class="description-wrapper"><span class="video-description">车马车兵和棋定，江湖残局实在太难了，艺人巧用瞒天过海之计</span></a></div> <div class="video-info__footer"><span class="video-footer"><span><a href="/item/6611302767799566856/" target="_blank" class="video-info__readTimes"><span>2026播放</span></a>
+          ·
+        </span> <a href="/item/6611302767799566856/#comment" target="_blank" class="comment"><span>2评论</span></a>
+        ·
+        <span class="video-time">2018-10-15 8:47</span> <div data-v-3e7e5b4c="" class="profile-button--delete video-footer__profile-button" style="display: none;"><i data-v-3e7e5b4c="" class="bui-icon icon-delete" style="font-size: 14px; color: rgb(128, 128, 128);"></i>
+  删除
+</div></span></div></div></div></div></div></li><li class="profile-video-list__card-list__wrapper"><div class="card-container"><div class="video-img"><a href="/item/6611302974234821127/" target="_blank" class="img-wrap" style="width: 158px; height: 102px;"><img src="https://p98.pstatp.com/list/pgc-image/1539313345498e8ff3a31ed" class="lazy-load-img"> <i class="pic-tip video-tip"><span class="video-icon"></span> <span class="img-duration">03:19</span></i></a></div> <div class="video-info"><div class="video-info__wrapper"><div class="video-info__content"><div class="video-info__description"><a href="/item/6611302974234821127/" target="_blank" class="description-wrapper"><span class="video-description">轻松抬炮胜局来到，对高手来说也相当有难度的象棋残局，豁然开朗</span></a></div> <div class="video-info__footer"><span class="video-footer"><span><a href="/item/6611302974234821127/" target="_blank" class="video-info__readTimes"><span>777播放</span></a>
+          ·
+        </span> <a href="/item/6611302974234821127/#comment" target="_blank" class="comment"><span>2评论</span></a>
+        ·
+        <span class="video-time">2018-10-15 7:42</span> <div data-v-3e7e5b4c="" class="profile-button--delete video-footer__profile-button" style="display: none;"><i data-v-3e7e5b4c="" class="bui-icon icon-delete" style="font-size: 14px; color: rgb(128, 128, 128);"></i>
+  删除
+</div></span></div></div></div></div></div></li><li class="profile-video-list__card-list__wrapper"><div class="card-container"><div class="video-img"><a href="/item/6606592813511475726/" target="_blank" class="img-wrap" style="width: 158px; height: 102px;"><img src="https://p3.pstatp.com/list/pgc-image/153821708161848c07e4222" class="lazy-load-img"> <i class="pic-tip video-tip"><span class="video-icon"></span> <span class="img-duration">01:58</span></i></a></div> <div class="video-info"><div class="video-info__wrapper"><div class="video-info__content"><div class="video-info__description"><a href="/item/6606592813511475726/" target="_blank" class="description-wrapper"><span class="video-description">图形招法精彩又妙绝，还有这样的象棋残局，退炮打卒招法不敢想</span></a></div> <div class="video-info__footer"><span class="video-footer"><span><a href="/item/6606592813511475726/" target="_blank" class="video-info__readTimes"><span>1578播放</span></a>
+          ·
+        </span> <a href="/item/6606592813511475726/#comment" target="_blank" class="comment"><span>5评论</span></a>
+        ·
+        <span class="video-time">2018-10-15 7:42</span> <div data-v-3e7e5b4c="" class="profile-button--delete video-footer__profile-button" style="display: none;"><i data-v-3e7e5b4c="" class="bui-icon icon-delete" style="font-size: 14px; color: rgb(128, 128, 128);"></i>
+  删除
+</div></span></div></div></div></div></div></li><li class="profile-video-list__card-list__wrapper"><div class="card-container"><div class="video-img"><a href="/item/6611303212366430727/" target="_blank" class="img-wrap" style="width: 158px; height: 102px;"><img src="https://p1.pstatp.com/list/pgc-image/1539313352311b063abe06c" class="lazy-load-img"> <i class="pic-tip video-tip"><span class="video-icon"></span> <span class="img-duration">03:04</span></i></a></div> <div class="video-info"><div class="video-info__wrapper"><div class="video-info__content"><div class="video-info__description"><a href="/item/6611303212366430727/" target="_blank" class="description-wrapper"><span class="video-description">边车受制难脱身，江湖象棋一局定胜负，围观棋友纷纷上阵奈何不得</span></a></div> <div class="video-info__footer"><span class="video-footer"><span><a href="/item/6611303212366430727/" target="_blank" class="video-info__readTimes"><span>1732播放</span></a>
+          ·
+        </span> <a href="/item/6611303212366430727/#comment" target="_blank" class="comment"><span>4评论</span></a>
+        ·
+        <span class="video-time">2018-10-15 6:58</span> <div data-v-3e7e5b4c="" class="profile-button--delete video-footer__profile-button" style="display: none;"><i data-v-3e7e5b4c="" class="bui-icon icon-delete" style="font-size: 14px; color: rgb(128, 128, 128);"></i>
+  删除
+</div></span></div></div></div></div></div></li><li class="profile-video-list__card-list__wrapper"><div class="card-container"><div class="video-img"><a href="/item/6606592472598446599/" target="_blank" class="img-wrap" style="width: 158px; height: 102px;"><img src="https://p3.pstatp.com/list/pgc-image/1538217068139275c91896a" class="lazy-load-img"> <i class="pic-tip video-tip"><span class="video-icon"></span> <span class="img-duration">03:47</span></i></a></div> <div class="video-info"><div class="video-info__wrapper"><div class="video-info__content"><div class="video-info__description"><a href="/item/6606592472598446599/" target="_blank" class="description-wrapper"><span class="video-description">四连弃马兵要绝杀黑棋，老艺人手段真是高明，不露痕迹就能获胜</span></a></div> <div class="video-info__footer"><span class="video-footer"><span><a href="/item/6606592472598446599/" target="_blank" class="video-info__readTimes"><span>5787播放</span></a>
+          ·
+        </span> <a href="/item/6606592472598446599/#comment" target="_blank" class="comment"><span>4评论</span></a>
+        ·
+        <span class="video-time">2018-10-15 6:58</span> <div data-v-3e7e5b4c="" class="profile-button--delete video-footer__profile-button" style="display: none;"><i data-v-3e7e5b4c="" class="bui-icon icon-delete" style="font-size: 14px; color: rgb(128, 128, 128);"></i>
+  删除
+</div></span></div></div></div></div></div></li><li class="profile-video-list__card-list__wrapper"><div class="card-container"><div class="video-img"><a href="/item/6606193405305291278/" target="_blank" class="img-wrap" style="width: 158px; height: 102px;"><img src="https://p1.pstatp.com/list/pgc-image/15381241199228ec23efcdd" class="lazy-load-img"> <i class="pic-tip video-tip"><span class="video-icon"></span> <span class="img-duration">06:55</span></i></a></div> <div class="video-info"><div class="video-info__wrapper"><div class="video-info__content"><div class="video-info__description"><a href="/item/6606193405305291278/" target="_blank" class="description-wrapper"><span class="video-description">双马看家棋局妙，精彩绝伦街头象棋残局，技法一流，菜鸟新手害怕</span></a></div> <div class="video-info__footer"><span class="video-footer"><span><a href="/item/6606193405305291278/" target="_blank" class="video-info__readTimes"><span>515播放</span></a>
+          ·
+        </span> <a href="/item/6606193405305291278/#comment" target="_blank" class="comment"><span>2评论</span></a>
+        ·
+        <span class="video-time">2018-10-14 16:20</span> <div data-v-3e7e5b4c="" class="profile-button--delete video-footer__profile-button" style="display: none;"><i data-v-3e7e5b4c="" class="bui-icon icon-delete" style="font-size: 14px; color: rgb(128, 128, 128);"></i>
+  删除
+</div></span></div></div></div></div></div></li><li class="profile-video-list__card-list__wrapper"><div class="card-container"><div class="video-img"><a href="/item/6611305794900066823/" target="_blank" class="img-wrap" style="width: 158px; height: 102px;"><img src="https://p1.pstatp.com/list/pgc-image/1539314347421bc41ee68c8" class="lazy-load-img"> <i class="pic-tip video-tip"><span class="video-icon"></span> <span class="img-duration">04:30</span></i></a></div> <div class="video-info"><div class="video-info__wrapper"><div class="video-info__content"><div class="video-info__description"><a href="/item/6611305794900066823/" target="_blank" class="description-wrapper"><span class="video-description">过关象棋弃双炮，民间艺人竟弃子不顾，实在出乎众人意料不明所以</span></a></div> <div class="video-info__footer"><span class="video-footer"><span><a href="/item/6611305794900066823/" target="_blank" class="video-info__readTimes"><span>249播放</span></a>
+          ·
+        </span> <a href="/item/6611305794900066823/#comment" target="_blank" class="comment"><span>1评论</span></a>
+        ·
+        <span class="video-time">2018-10-14 16:20</span> <div data-v-3e7e5b4c="" class="profile-button--delete video-footer__profile-button" style="display: none;"><i data-v-3e7e5b4c="" class="bui-icon icon-delete" style="font-size: 14px; color: rgb(128, 128, 128);"></i>
+  删除
+</div></span></div></div></div></div></div></li><li class="profile-video-list__card-list__wrapper"><div class="card-container"><div class="video-img"><a href="/item/6606235655171211779/" target="_blank" class="img-wrap" style="width: 158px; height: 102px;"><img src="https://p3.pstatp.com/list/pgc-image/1538134075996c0a2265f1c" class="lazy-load-img"> <i class="pic-tip video-tip"><span class="video-icon"></span> <span class="img-duration">05:18</span></i></a></div> <div class="video-info"><div class="video-info__wrapper"><div class="video-info__content"><div class="video-info__description"><a href="/item/6606235655171211779/" target="_blank" class="description-wrapper"><span class="video-description">玩象棋残局的人都喜欢弃双车，江湖艺人抓住了人们求胜的心理</span></a></div> <div class="video-info__footer"><span class="video-footer"><span><a href="/item/6606235655171211779/" target="_blank" class="video-info__readTimes"><span>334播放</span></a>
+          ·
+        </span> <a href="/item/6606235655171211779/#comment" target="_blank" class="comment"><span>3评论</span></a>
+        ·
+        <span class="video-time">2018-10-14 14:35</span> <div data-v-3e7e5b4c="" class="profile-button--delete video-footer__profile-button" style="display: none;"><i data-v-3e7e5b4c="" class="bui-icon icon-delete" style="font-size: 14px; color: rgb(128, 128, 128);"></i>
+  删除
+</div></span></div></div></div></div></div></li><li class="profile-video-list__card-list__wrapper"><div class="card-container"><div class="video-img"><a href="/item/6612091981524894216/" target="_blank" class="img-wrap" style="width: 158px; height: 102px;"><img src="https://p98.pstatp.com/list/pgc-image/153949755598031b03f1a66" class="lazy-load-img"> <i class="pic-tip video-tip"><span class="video-icon"></span> <span class="img-duration">11:10</span></i></a></div> <div class="video-info"><div class="video-info__wrapper"><div class="video-info__content"><div class="video-info__description"><a href="/item/6612091981524894216/" target="_blank" class="description-wrapper"><span class="video-description">再见双献马，不要看到什么样的象棋都要双献马，这一局就是单献马</span></a></div> <div class="video-info__footer"><span class="video-footer"><span><a href="/item/6612091981524894216/" target="_blank" class="video-info__readTimes"><span>18107播放</span></a>
+          ·
+        </span> <a href="/item/6612091981524894216/#comment" target="_blank" class="comment"><span>7评论</span></a>
+        ·
+        <span class="video-time">2018-10-14 14:33</span> <div data-v-3e7e5b4c="" class="profile-button--delete video-footer__profile-button" style="display: none;"><i data-v-3e7e5b4c="" class="bui-icon icon-delete" style="font-size: 14px; color: rgb(128, 128, 128);"></i>
+  删除
+</div></span></div></div></div></div></div></li> <!----> <!----></ul></div> <!----></div></div></div> <div data-v-7a13d36c="" class="content-right"><div data-v-84d75ca6="" data-v-7a13d36c="" class="profile-follow-abstract"><a data-v-84d75ca6="" href="/c/user/relation/6597794261/?type=following" class="profile-follow-abstract__item">
+    0
+    <div data-v-84d75ca6="">关注</div></a> <a data-v-84d75ca6="" href="/c/user/relation/6597794261/?type=followed" class="profile-follow-abstract__item">
+    482680
+    <div data-v-84d75ca6="">粉丝</div></a></div> <div data-v-7a13d36c="" class="pane-module recent-hot-videos"><div class="module-head">近期热门视频</div> <ul class="module-content video-list"><li class="video-item"><a href="/item/6612470019118858755/" target="_blank" class="link"><dl><dt class="module-pic"><img src="https://p3.pstatp.com/list/300x170/pgc-image/1539585169231714b2197b9" alt="黑车无路顿足捶胸，艺人靠这盘江湖残局纵横棋场，骗子招法想不到"> <i class="hot-tag video-tag"><span>05:35</span></i></dt> <dd><div class="cell"><h4>黑车无路顿足捶胸，艺人靠这盘江湖残局纵横棋场，骗子招法想不到</h4> <p><span>1万次播放&nbsp;</span> <!----></p></div></dd></dl></a></li><li class="video-item"><a href="/item/6611302619015021069/" target="_blank" class="link"><dl><dt class="module-pic"><img src="https://p3.pstatp.com/list/300x170/pgc-image/1539313334282d0d9f1d7a1" alt="车马被牵妙招成和棋，象棋残局中的精品，一般人难以掌握其中奥秘"> <i class="hot-tag video-tag"><span>05:11</span></i></dt> <dd><div class="cell"><h4>车马被牵妙招成和棋，象棋残局中的精品，一般人难以掌握其中奥秘</h4> <p><span>4196次播放&nbsp;</span> <!----></p></div></dd></dl></a></li><li class="video-item"><a href="/item/6612506135880532494/" target="_blank" class="link"><dl><dt class="module-pic"><img src="https://p3.pstatp.com/list/300x170/pgc-image/153959404326258593952ab" alt="天然去雕饰，象棋对弈最高的境界是顺其自然，但是一般人做不到！"> <i class="hot-tag video-tag"><span>06:07</span></i></dt> <dd><div class="cell"><h4>天然去雕饰，象棋对弈最高的境界是顺其自然，但是一般人做不到！</h4> <p><span>6916次播放&nbsp;</span> <!----></p></div></dd></dl></a></li><li class="video-item"><a href="/item/6606594075162313230/" target="_blank" class="link"><dl><dt class="module-pic"><img src="https://p3.pstatp.com/list/300x170/pgc-image/15382171667314d7753a573" alt="天炮地炮大绝杀，江湖客摆的象棋残局，许多棋友认为黑方不败能胜"> <i class="hot-tag video-tag"><span>02:34</span></i></dt> <dd><div class="cell"><h4>天炮地炮大绝杀，江湖客摆的象棋残局，许多棋友认为黑方不败能胜</h4> <p><span>2726次播放&nbsp;</span> <!----></p></div></dd></dl></a></li><li class="video-item"><a href="/item/6611302282426319363/" target="_blank" class="link"><dl><dt class="module-pic"><img src="https://p3.pstatp.com/list/300x170/pgc-image/1539313322361d6bed38147" alt="车马炮连杀威力增，路边象棋残局精选，民间艺人走子招法环环相扣"> <i class="hot-tag video-tag"><span>07:54</span></i></dt> <dd><div class="cell"><h4>车马炮连杀威力增，路边象棋残局精选，民间艺人走子招法环环相扣</h4> <p><span>4059次播放&nbsp;</span> <!----></p></div></dd></dl></a></li><li class="video-item"><a href="/item/6606593555064422925/" target="_blank" class="link"><dl><dt class="module-pic"><img src="https://p3.pstatp.com/list/300x170/pgc-image/1538217116175795b1b4476" alt="土字排局马后炮杀棋，测试棋友水平象棋残局，看看多长时间能破解"> <i class="hot-tag video-tag"><span>03:37</span></i></dt> <dd><div class="cell"><h4>土字排局马后炮杀棋，测试棋友水平象棋残局，看看多长时间能破解</h4> <p><span>2756次播放&nbsp;</span> <!----></p></div></dd></dl></a></li><li class="video-item"><a href="/item/6606593832379220483/" target="_blank" class="link"><dl><dt class="module-pic"><img src="https://p3.pstatp.com/list/300x170/pgc-image/153821715280285df053ba0" alt="天地炮马后炮双杀之局，红方竟然弃车不顾，实在让人难以想象"> <i class="hot-tag video-tag"><span>02:51</span></i></dt> <dd><div class="cell"><h4>天地炮马后炮双杀之局，红方竟然弃车不顾，实在让人难以想象</h4> <p><span>2937次播放&nbsp;</span> <!----></p></div></dd></dl></a></li><li class="video-item"><a href="/item/6611302431458329102/" target="_blank" class="link"><dl><dt class="module-pic"><img src="https://p3.pstatp.com/list/300x170/pgc-image/1539313330178d1e82ff213" alt="车马联攻杀棋多多，一个大师水准的江湖残局，棋中看似简单易破"> <i class="hot-tag video-tag"><span>04:27</span></i></dt> <dd><div class="cell"><h4>车马联攻杀棋多多，一个大师水准的江湖残局，棋中看似简单易破</h4> <p><span>2373次播放&nbsp;</span> <!----></p></div></dd></dl></a></li><li class="video-item"><a href="/item/6606596056245338632/" target="_blank" class="link"><dl><dt class="module-pic"><img src="https://p3.pstatp.com/list/300x170/pgc-image/15395903742021c0ce3617f" alt="天炮地炮巧妙杀，这棋下的怎么这么好呢，想不到象棋残局还有如此"> <i class="hot-tag video-tag"><span>06:22</span></i></dt> <dd><div class="cell"><h4>天炮地炮巧妙杀，这棋下的怎么这么好呢，想不到象棋残局还有如此</h4> <p><span>295次播放&nbsp;</span> <!----></p></div></dd></dl></a></li><li class="video-item"><a href="/item/6612469807918875144/" target="_blank" class="link"><dl><dt class="module-pic"><img src="https://p3.pstatp.com/list/300x170/pgc-image/1539585547345790335f41b" alt="黑炮被牵没抵抗，看看民间高手是如何摆设龙门阵，一举拿下黑方"> <i class="hot-tag video-tag"><span>03:59</span></i></dt> <dd><div class="cell"><h4>黑炮被牵没抵抗，看看民间高手是如何摆设龙门阵，一举拿下黑方</h4> <p><span>106次播放&nbsp;</span> <!----></p></div></dd></dl></a></li></ul></div></div></div> <footer data-v-0c9ca243="" data-v-7a13d36c="" class="ixigua-footer"><div data-v-0ac3c3a4="" data-v-0c9ca243="" class="ixigua-footer__row"><div data-v-0c9ca243="" class="site-item" data-v-0ac3c3a4=""><span class="unclickable font-size-12">Copyright © 2017 西瓜视频 版权所有</span> <div class="unclickable font-size-12"></div></div><div data-v-0c9ca243="" class="site-item" data-v-0ac3c3a4=""><span class="unclickable font-size-12"></span> <a href="http://www.12377.cn/" target="_blank" class="clickable font-size-12"><!---->
+    中国互联网举报中心
+  </a></div><div data-v-0c9ca243="" class="site-item" data-v-0ac3c3a4=""><span class="unclickable font-size-12"></span> <a href="http://www.miibeian.gov.cn/state/outPortal/loginPortal.action" target="_blank" class="clickable font-size-12"><!---->
+    晋ICP备17000179号-3
+  </a></div><div data-v-0c9ca243="" class="site-item" data-v-0ac3c3a4=""><span class="unclickable font-size-12">请使用者仔细阅读 </span> <a href="//www.ixigua.com/agreement/" target="_blank" class="clickable font-size-12"><!---->
+    用户协议
+  </a></div><div data-v-0c9ca243="" class="site-item" data-v-0ac3c3a4=""><span class="unclickable font-size-12"></span> <a href="//www.ixigua.com/complaint/" target="_blank" class="clickable font-size-12"><!---->
+    投诉指引
+  </a></div></div> <div data-v-0ac3c3a4="" data-v-0c9ca243="" class="ixigua-footer__row"><div data-v-0c9ca243="" class="site-item" data-v-0ac3c3a4=""><span class="unclickable font-size-12"></span> <a href="//www.ixigua.com/crawler_manifesto/" target="_blank" class="clickable font-size-12"><!---->
+    防盗链、防抓取声明
+  </a></div><div data-v-0c9ca243="" class="site-item" data-v-0ac3c3a4=""><span class="unclickable font-size-12"></span> <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=14080202000216" target="_blank" class="clickable font-size-12"><img src="//s3.pstatp.com/toutiao/resource/ntoutiao_web/static/image/gongan_d0289dc.png" class="site-item__image">
+    晋公网安备 14080202000216号
+  </a></div></div></footer></div><script>var ownerInfo = {
+     id: 6597794261,
+     name: '江湖象棋残局天地',
+     avatarUrl: 'https://p3.pstatp.com/thumb/bc3000116d452c4cb4d',
+     isSelf: false,
+     description: '江湖象棋残局，陷阱圈套迭出，实用象棋残局，丝丝入扣，绵里藏针',
+     ugcPublishMediaId: '51434379040',
+     // mid, 用于获取当前owner的热门视频
+     mediaId: 6597794261,
+     isVerified: true,
+     isVisitorFollowing: false,
+     bg_img:'https://s2.pstatp.com/site/promotion/landing_page/img/profilebg@2x_55d77b9bc7f26237f8512ee5d551ffd6.png'||'//s2.pstatp.com/site/promotion/landing_page/img/profilebg@2x_55d77b9bc7f26237f8512ee5d551ffd6.png',
+  };
+
+  var visitorInfo = {
+    id: 0,
+    userName:'',
+    // userName 与 name分别需要被header, 关注列表使用
+    name:'',
+    avatarUrl:'',
+  };
+
+  var media = {
+    id:'0',
+    like:false
+  };
+
+  var header={
+    bg_img:'https://s2.pstatp.com/site/promotion/landing_page/img/profilebg@2x_55d77b9bc7f26237f8512ee5d551ffd6.png'||'//s2.pstatp.com/site/promotion/landing_page/img/profilebg@2x_55d77b9bc7f26237f8512ee5d551ffd6.png',
+    avtar_img:'https://p3.pstatp.com/thumb/bc3000116d452c4cb4d',
+    name:'江湖象棋残局天地',
+    abstract:'江湖象棋残局，陷阱圈套迭出，实用象棋残局，丝丝入扣，绵里藏针',
+    media_id:'6597794261',
+    like:media.like,
+    liked:false,
+    home_url:'/c/user/6597794261/',
+    right_knight_sign_status: '',
+    kbanquan_sign_status: ''
+  };
+
+  var followAbstract = {
+    followingUrl: '/c/user/relation/' + '6597794261' + '/?type=following',
+    followedUrl: '/c/user/relation/' + '6597794261' + '/?type=followed',
+    followingNum: 0,
+    followedNum: 482680
+  }
+
+  function getStartTab () {
+    var favouriteReg = /favourite/gi;
+    // 根据localtion.href来判断当前是展示following还是followed
+    // second与first时ProfileTab钟的配置项
+    return favouriteReg.test(window.location.href) ? 'second': 'first';
+  }
+
+  var START_TAB = getStartTab();</script><script type="text/javascript" src="//s3b.pstatp.com/toutiao/xigua_video/pc/static/js/vendor.584df7606d8ef399e77e.js"></script><script type="text/javascript" src="//s3.pstatp.com/toutiao/xigua_video/pc/static/js/page/profile-video/profile-video.e915d27a37c960b909ac.js"></script><script type="text/javascript" src="//s3b.pstatp.com/toutiao/xigua_video/pc/static/js/ttstatistics.daa74cea366cc1e2f675.js"></script><script type="text/javascript" src="//s3.pstatp.com/toutiao/xigua_video/pc/static/js/page/index2/data.722454ffd78b8a83bb39.js"></script><script>// 设置ga的sample rate
+  // var _gaq = _gaq || [];
+  // _gaq.push(['_setSampleRate', '20']);
+  (function (i, s, o, g, r, a, m) {
+    i['GoogleAnalyticsObject'] = r;
+    i[r] = i[r] || function () {
+      (i[r].q = i[r].q || []).push(arguments);
+    }, i[r].l = 1 * new Date();
+    a = s.createElement(o),
+      m = s.getElementsByTagName(o)[0];
+    a.async = 1;
+    a.src = g;
+    m.parentNode.insertBefore(a, m);
+  })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+  ga('create', 'UA-89504546-4', {
+    sampleRate: '5'
+  });
+  ga('send', 'pageview');</script><script src="//s3.pstatp.com/toutiao/monitor/sdk/slardar.js"></script><style>a[href^='http://www.cnzz.com/stat'] {
+    display: none!important;
+  }</style><script src="https://s22.cnzz.com/z_stat.php?id=1262382642&amp;web_id=1262382642" async="" language="JavaScript"></script><script src="//s3.pstatp.com/inapp/lib/raven.js" crossorigin="anonymous" async=""></script><script>if (window.Raven) {
+    window.Raven.config('//0355d7f3eda849d296aaad9a4eec0a00@m.toutiao.com/log/sentry/v2/112', {}).install();
+  }</script><script>// 示例
+  window.Slardar && window.Slardar.install({
+    sampleRate: 1,   // 采样率 (0, 1]
+    bid: 'ixigua_pc', // 业务标识
+    pid: 'index',  // 页面标识
+    ignoreAjax: [/action_log/],    // 无需监控的ajax url规则集
+    ignoreStatic: []   // 无需监控的静态资源 url规则集
+  });</script></body></html>

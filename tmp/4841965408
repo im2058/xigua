@@ -1,0 +1,236 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><title>西瓜视频 - 原头条视频, 唯一官方网站</title><meta http-equiv="x-dns-prefetch-control" content="on"><meta name="description" content="全球领先的在线短视频网站, 搞笑游戏音乐育儿应有尽有。"><meta name="keywords" content="西瓜视频,视频,短视频,原创视频,今日头条,西瓜视频官网"><script type="text/javascript" async="" charset="utf-8" src="https://c.cnzz.com/core.php?web_id=1262382642&amp;t=z"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script>window.__taStartTime = new Date().getTime();</script><link rel="dns-prefetch" href="//s3.pstatp.com/"><link rel="dns-prefetch" href="//s3a.pstatp.com/"><link rel="dns-prefetch" href="//s3b.pstatp.com"><link rel="dns-prefetch" href="//p1.pstatp.com/"><link rel="dns-prefetch" href="//p3.pstatp.com/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no,minimal-ui"><meta name="baidu-site-verification" content="yNwzqSLMKc"><meta name="domain_verify" content="pmrgi33nmfuw4ir2ej2g65lunfqw6ltdn5wselbcm52wszbchirdqyztge3tenrsgq3dknjume2tayrvmqytemlfmiydimddgu4gcnzcfqrhi2lnmvjwc5tfei5dcnbwhazdcobuhe2dqobrpu"><link rel="shortcut icon" href="//s3.pstatp.com/toutiao/xigua_cdn/ixigua.ico" type="image/x-icon"><meta name="pathname" content="ixigua_pc.profile_video"><meta name="slardar-id" content="ixigua_pc.profile_video"><link rel="stylesheet" href="//s3a.pstatp.com/toutiao/xigua_video/pc/static/css/page/profile-video/profile-video.7d71b88b4ab7df6e8f46ecac7136fd17.css"><script>!function(e){function a(c){if(t[c])return t[c].exports;var f=t[c]={exports:{},id:c,loaded:!1};return e[c].call(f.exports,f,f.exports,a),f.loaded=!0,f.exports}var c=window.webpackJsonp;window.webpackJsonp=function(o,r){for(var d,n,p=0,i=[];p<o.length;p++)n=o[p],f[n]&&i.push.apply(i,f[n]),f[n]=0;for(d in r)Object.prototype.hasOwnProperty.call(r,d)&&(e[d]=r[d]);for(c&&c(o,r);i.length;)i.shift().call(null,a);if(r[0])return t[0]=0,a(0)};var t={},f={0:0};a.e=function(e,c){if(0===f[e])return c.call(null,a);if(void 0!==f[e])f[e].push(c);else{f[e]=[c];var t=document.getElementsByTagName("head")[0],o=document.createElement("script");o.type="text/javascript",o.charset="utf-8",o.async=!0,o.src=a.p+"static/js/"+e+"."+{1:"584df7606d8ef399e77e",2:"e915d27a37c960b909ac",3:"9b5e781466aef47bc075",4:"79fcffcb77774e7a8106",5:"47d670c2cd24de933e5b",6:"ccf4a7610e895e26664b",7:"d59bff6ba84f602a9c57",8:"81876e7884a816412a7a",9:"0d49e08312dc5f1f930c",10:"5259fff1856b02d82ade",11:"a8ce9e53e1c641791c2b",12:"daa74cea366cc1e2f675",13:"722454ffd78b8a83bb39"}[e]+".js",t.appendChild(o)}},a.m=e,a.c=t,a.p="/toutiao/xigua_video/pc/",a.p="//s3.pstatp.com/toutiao/xigua_video/pc/"}([]);</script><style type="text/css">@-webkit-keyframes resizeanim { from { opacity: 0; } to { opacity: 0; } } 
+      .resize-triggers { -webkit-animation: 1ms resizeanim; visibility: hidden; opacity: 0; }
+      .resize-triggers, .resize-triggers > div, .contract-trigger:before { content: " "; display: block; position: absolute; top: 0; left: 0; height: 100%; width: 100%; overflow: hidden; }
+      .resize-triggers > div { background: #eee; overflow: auto; }
+      .contract-trigger:before { width: 200%; height: 200%; }</style></head><body><div data-v-7a13d36c="" id="profile-page"><div data-v-7a13d36c="" class="header"><div class="topbar"><div class="bui-left clearfix"><a href="//www.ixigua.com/app/" target="_blank" ga_event="mh_nav_others" class="download-app tb-link">下载APP</a> <div class="weather-tool"><div class="weather-abstract"><span>&nbsp;北京</span> <span class="city_state">阴</span> <span class="city_temperature"><em>11</em>° &nbsp;/&nbsp; <em>17</em>°
+    </span> <i class="bui-icon icon-arrow_down" style="font-size: 14px; color: rgb(255, 255, 255);"></i></div> <div class="y-weather" style="display: none;"><div class="w-header"><span ga_event="mh_change_city" class="bui-icon icon-locationweather bui-vm">&nbsp;北京</span> <span class="wind bui-vm">东北风1级</span> <span class="air vm" style="background-color: rgb(255, 159, 45);">中度&nbsp;178</span></div> <ul class="days-weather"><li class="bui-left day"><span class="title">今天</span> <div class="weather-icon weather-icon-2" title="阴"></div> <span class="temperature"><em>11</em>°
+            /
+            <em>17</em>°
+        </span></li> <li class="bui-left day"><span class="title">明天</span> <div class="weather-icon weather-icon-1" title="多云转晴"></div> <span class="temperature"><em>7</em>°
+            /
+            <em>17</em>°
+        </span></li> <li class="bui-left day"><span class="title">后天</span> <div class="weather-icon weather-icon-0" title="晴"></div> <span class="temperature"><em>5</em>°
+            /
+            <em>17</em>°
+        </span></li></ul></div></div></div> <div class="bui-right"><ul class="user-nav-list clearfix"><li><a href="/game/" target="_blank" class="tb-link">游戏</a></li> <li><a href="https://ad.toutiao.com/self_service/" target="_blank" class="tb-link">我想投广告</a></li> <!----> <li class="nav-login"><a href="https://sso.toutiao.com/login/?service=https://www.ixigua.com" class="tb-link">登录</a></li> <li><a href="//mp.toutiao.com/profile_v3/xigua" target="_blank" class="tb-link">上传视频</a></li> <li><a href="//live.ixigua.com/" target="_blank" class="tb-link">我要开播</a></li></ul></div> <!----></div></div> <div data-v-7a13d36c="" class="banner"><div class="site-banner"><a href="//www.ixigua.com" class="site-banner__wrapper"><img src="//s3.pstatp.com/toutiao/xigua_video/pc/static/img/logo.9ba0c9f.png" alt="" class="site-banner__icon"></a> <div class="site-banner__search-box"><div class="input-wrapper" searchurl="/search/?keyword="><div class="tt-autocomplete"><div class="tt-input"><!----> <i class="tt-input__icon bui-icon icon-search is-clickable" style="font-size: 18px;"></i> <input type="text" placeholder="大家都在搜：如懿传大结局" autocomplete="off" class="tt-input__inner"> <!----> <!----></div> <div class="tt-autocomplete-suggestion" style="display: none;"><div class="tt-scrollbar"><div class="tt-autocomplete-suggestion__wrap tt-scrollbar__wrap" style="margin-bottom: -16px; margin-right: -16px;"><ul class="tt-scrollbar__view tt-autocomplete-suggestion__list" style="position: relative;"><div class="resize-triggers"><div class="expand-trigger"><div style="width: 1px; height: 1px;"></div></div><div class="contract-trigger"></div></div></ul></div><div class="tt-scrollbar__bar is-horizontal"><div class="tt-scrollbar__thumb" style="-webkit-transform: translateX(0%);"></div></div><div class="tt-scrollbar__bar is-vertical"><div class="tt-scrollbar__thumb" style="-webkit-transform: translateY(0%);"></div></div></div></div></div></div></div></div></div> <div data-v-7a13d36c="" class="profile-content-wrapper"><div data-v-7a13d36c="" class="profile-owner"><a href="/c/user/4841965408/" class="profile-owner__bg-picture"><img src="https://s2.pstatp.com/site/promotion/landing_page/img/profilebg@2x_55d77b9bc7f26237f8512ee5d551ffd6.png"></a> <a data-v-e7c17c18="" target="_blank" href="/c/user/4841965408/" class="profile-image profile-owner__avatar" style="width: 102px; height: 102px;"><img data-v-e7c17c18="" src="https://p3.pstatp.com/thumb/b728000033b75e1ba67d" alt="" class="profile-image__image"></a> <div class="profile-owner__info"><a href="/c/user/4841965408/" class="profile-name"><h3 class="profile-name__name">
+    综合娱乐快报
+    <i class="bui-icon icon-symbolv" style="font-size: 20px; color: rgb(254, 195, 70);"></i></h3></a> <a href="/c/user/4841965408/" class="profile-owner__info__description">综合娱乐快报，品视频，享人生。</a> <div class="profile-owner__info__follow-button follow-button__banner--front"><span class="follow-button__banner--front-text"><i class="bui-icon icon-add_small"></i>关注</span></div></div></div> <div data-v-7a13d36c="" class="content-left"><div data-v-7a13d36c="" class="profile-tabs tt-tabs"><div class="tt-tabs__header"><div class="tt-tabs__nav-wrap"><div class="tt-tabs__nav-scroll"><div class="tt-tabs__nav"><div class="tt-tabs__active-bar" style="width: 0px; -webkit-transform: translateX(0px);"></div><div class="tt-tabs__item is-active">视频</div></div></div></div></div><div class="tt-tabs__content"><div class="tt-tab-pane"><ul infinite-scroll-disabled="disableScroll" infinite-scroll-distance="80" class="profile-video-list"><li class="profile-video-list__card-list__wrapper"><div class="card-container"><div class="video-img"><a href="/item/6612586758225789444/" target="_blank" class="img-wrap" style="width: 158px; height: 102px;"><img src="https://p1.pstatp.com/list/cfa200089c3df9800033" class="lazy-load-img"> <i class="pic-tip video-tip"><span class="video-icon"></span> <span class="img-duration">07:34</span></i></a></div> <div class="video-info"><div class="video-info__wrapper"><div class="video-info__content"><div class="video-info__description"><a href="/item/6612586758225789444/" target="_blank" class="description-wrapper"><span class="video-description">沙溢王宁即兴小品，沙溢惨被王宁套路，套路满满爆笑全场</span></a></div> <div class="video-info__footer"><span class="video-footer"><span><a href="/item/6612586758225789444/" target="_blank" class="video-info__readTimes"><span>1播放</span></a>
+          ·
+        </span> <a href="/item/6612586758225789444/#comment" target="_blank" class="comment"><span>0评论</span></a>
+        ·
+        <span class="video-time">2018-10-15 22:13</span> <div data-v-3e7e5b4c="" class="profile-button--delete video-footer__profile-button" style="display: none;"><i data-v-3e7e5b4c="" class="bui-icon icon-delete" style="font-size: 14px; color: rgb(128, 128, 128);"></i>
+  删除
+</div></span></div></div></div></div></div></li><li class="profile-video-list__card-list__wrapper"><div class="card-container"><div class="video-img"><a href="/item/6612580134165676552/" target="_blank" class="img-wrap" style="width: 158px; height: 102px;"><img src="https://p3.pstatp.com/list/cce6000b0bdbf78d408f" class="lazy-load-img"> <i class="pic-tip video-tip"><span class="video-icon"></span> <span class="img-duration">11:54</span></i></a></div> <div class="video-info"><div class="video-info__wrapper"><div class="video-info__content"><div class="video-info__description"><a href="/item/6612580134165676552/" target="_blank" class="description-wrapper"><span class="video-description">王宁爆笑即兴小品，王宁为广告创意煞费苦心，套路满满爆笑全场</span></a></div> <div class="video-info__footer"><span class="video-footer"><span><a href="/item/6612580134165676552/" target="_blank" class="video-info__readTimes"><span>7播放</span></a>
+          ·
+        </span> <a href="/item/6612580134165676552/#comment" target="_blank" class="comment"><span>0评论</span></a>
+        ·
+        <span class="video-time">2018-10-15 21:48</span> <div data-v-3e7e5b4c="" class="profile-button--delete video-footer__profile-button" style="display: none;"><i data-v-3e7e5b4c="" class="bui-icon icon-delete" style="font-size: 14px; color: rgb(128, 128, 128);"></i>
+  删除
+</div></span></div></div></div></div></div></li><li class="profile-video-list__card-list__wrapper"><div class="card-container"><div class="video-img"><a href="/item/6612575451690828292/" target="_blank" class="img-wrap" style="width: 158px; height: 102px;"><img src="https://p9.pstatp.com/list/c9da000ad2f11af2dc00" class="lazy-load-img"> <i class="pic-tip video-tip"><span class="video-icon"></span> <span class="img-duration">05:50</span></i></a></div> <div class="video-info"><div class="video-info__wrapper"><div class="video-info__content"><div class="video-info__description"><a href="/item/6612575451690828292/" target="_blank" class="description-wrapper"><span class="video-description">王宁即兴小品，张小斐：客户是河南人，王宁：我也可以是河南人！</span></a></div> <div class="video-info__footer"><span class="video-footer"><span><a href="/item/6612575451690828292/" target="_blank" class="video-info__readTimes"><span>4播放</span></a>
+          ·
+        </span> <a href="/item/6612575451690828292/#comment" target="_blank" class="comment"><span>0评论</span></a>
+        ·
+        <span class="video-time">2018-10-15 21:29</span> <div data-v-3e7e5b4c="" class="profile-button--delete video-footer__profile-button" style="display: none;"><i data-v-3e7e5b4c="" class="bui-icon icon-delete" style="font-size: 14px; color: rgb(128, 128, 128);"></i>
+  删除
+</div></span></div></div></div></div></div></li><li class="profile-video-list__card-list__wrapper"><div class="card-container"><div class="video-img"><a href="/item/6612566936138023431/" target="_blank" class="img-wrap" style="width: 158px; height: 102px;"><img src="https://p1.pstatp.com/list/c9da00060f7a2eac5361" class="lazy-load-img"> <i class="pic-tip video-tip"><span class="video-icon"></span> <span class="img-duration">06:03</span></i></a></div> <div class="video-info"><div class="video-info__wrapper"><div class="video-info__content"><div class="video-info__description"><a href="/item/6612566936138023431/" target="_blank" class="description-wrapper"><span class="video-description">许君聪沙溢即兴小品，当即兴王沙溢碰上笑场王刘海柱，全都笑场了</span></a></div> <div class="video-info__footer"><span class="video-footer"><span><a href="/item/6612566936138023431/" target="_blank" class="video-info__readTimes"><span>585播放</span></a>
+          ·
+        </span> <a href="/item/6612566936138023431/#comment" target="_blank" class="comment"><span>0评论</span></a>
+        ·
+        <span class="video-time">2018-10-15 20:56</span> <div data-v-3e7e5b4c="" class="profile-button--delete video-footer__profile-button" style="display: none;"><i data-v-3e7e5b4c="" class="bui-icon icon-delete" style="font-size: 14px; color: rgb(128, 128, 128);"></i>
+  删除
+</div></span></div></div></div></div></div></li><li class="profile-video-list__card-list__wrapper"><div class="card-container"><div class="video-img"><a href="/item/6612564395882971656/" target="_blank" class="img-wrap" style="width: 158px; height: 102px;"><img src="https://p3.pstatp.com/list/9eb4000aeeb48f58d3d8" class="lazy-load-img"> <i class="pic-tip video-tip"><span class="video-icon"></span> <span class="img-duration">06:24</span></i></a></div> <div class="video-info"><div class="video-info__wrapper"><div class="video-info__content"><div class="video-info__description"><a href="/item/6612564395882971656/" target="_blank" class="description-wrapper"><span class="video-description">沙溢爆笑即兴小品，即兴王沙溢引全场哄笑，编剧都蒙圈了</span></a></div> <div class="video-info__footer"><span class="video-footer"><span><a href="/item/6612564395882971656/" target="_blank" class="video-info__readTimes"><span>254播放</span></a>
+          ·
+        </span> <a href="/item/6612564395882971656/#comment" target="_blank" class="comment"><span>1评论</span></a>
+        ·
+        <span class="video-time">2018-10-15 20:47</span> <div data-v-3e7e5b4c="" class="profile-button--delete video-footer__profile-button" style="display: none;"><i data-v-3e7e5b4c="" class="bui-icon icon-delete" style="font-size: 14px; color: rgb(128, 128, 128);"></i>
+  删除
+</div></span></div></div></div></div></div></li><li class="profile-video-list__card-list__wrapper"><div class="card-container"><div class="video-img"><a href="/item/6612559049806316039/" target="_blank" class="img-wrap" style="width: 158px; height: 102px;"><img src="https://p1.pstatp.com/list/9eb40003a6bebc3a6d71" class="lazy-load-img"> <i class="pic-tip video-tip"><span class="video-icon"></span> <span class="img-duration">08:51</span></i></a></div> <div class="video-info"><div class="video-info__wrapper"><div class="video-info__content"><div class="video-info__description"><a href="/item/6612559049806316039/" target="_blank" class="description-wrapper"><span class="video-description">杜淳即兴小品：阳光男孩杜淳被套路到怀疑人生，套路满满爆笑全场</span></a></div> <div class="video-info__footer"><span class="video-footer"><span><a href="/item/6612559049806316039/" target="_blank" class="video-info__readTimes"><span>4043播放</span></a>
+          ·
+        </span> <a href="/item/6612559049806316039/#comment" target="_blank" class="comment"><span>2评论</span></a>
+        ·
+        <span class="video-time">2018-10-15 20:26</span> <div data-v-3e7e5b4c="" class="profile-button--delete video-footer__profile-button" style="display: none;"><i data-v-3e7e5b4c="" class="bui-icon icon-delete" style="font-size: 14px; color: rgb(128, 128, 128);"></i>
+  删除
+</div></span></div></div></div></div></div></li><li class="profile-video-list__card-list__wrapper"><div class="card-container"><div class="video-img"><a href="/item/6612555036767552008/" target="_blank" class="img-wrap" style="width: 158px; height: 102px;"><img src="https://p3.pstatp.com/list/e2d5000bdc9f77b5e820" class="lazy-load-img"> <i class="pic-tip video-tip"><span class="video-icon"></span> <span class="img-duration">13:09</span></i></a></div> <div class="video-info"><div class="video-info__wrapper"><div class="video-info__content"><div class="video-info__description"><a href="/item/6612555036767552008/" target="_blank" class="description-wrapper"><span class="video-description">杜淳王鸥即兴小品，快递员杜淳被美女王鸥套路到怀疑人生太搞笑了</span></a></div> <div class="video-info__footer"><span class="video-footer"><span><a href="/item/6612555036767552008/" target="_blank" class="video-info__readTimes"><span>6播放</span></a>
+          ·
+        </span> <a href="/item/6612555036767552008/#comment" target="_blank" class="comment"><span>0评论</span></a>
+        ·
+        <span class="video-time">2018-10-15 20:10</span> <div data-v-3e7e5b4c="" class="profile-button--delete video-footer__profile-button" style="display: none;"><i data-v-3e7e5b4c="" class="bui-icon icon-delete" style="font-size: 14px; color: rgb(128, 128, 128);"></i>
+  删除
+</div></span></div></div></div></div></div></li><li class="profile-video-list__card-list__wrapper"><div class="card-container"><div class="video-img"><a href="/item/6612547944346288647/" target="_blank" class="img-wrap" style="width: 158px; height: 102px;"><img src="https://p9.pstatp.com/list/e397000133409c93eae5" class="lazy-load-img"> <i class="pic-tip video-tip"><span class="video-icon"></span> <span class="img-duration">13:53</span></i></a></div> <div class="video-info"><div class="video-info__wrapper"><div class="video-info__content"><div class="video-info__description"><a href="/item/6612547944346288647/" target="_blank" class="description-wrapper"><span class="video-description">包贝尔郭京飞即兴小品，包贝尔上演烧脑“无间道”，结局很暖心</span></a></div> <div class="video-info__footer"><span class="video-footer"><span><a href="/item/6612547944346288647/" target="_blank" class="video-info__readTimes"><span>4780播放</span></a>
+          ·
+        </span> <a href="/item/6612547944346288647/#comment" target="_blank" class="comment"><span>5评论</span></a>
+        ·
+        <span class="video-time">2018-10-15 19:43</span> <div data-v-3e7e5b4c="" class="profile-button--delete video-footer__profile-button" style="display: none;"><i data-v-3e7e5b4c="" class="bui-icon icon-delete" style="font-size: 14px; color: rgb(128, 128, 128);"></i>
+  删除
+</div></span></div></div></div></div></div></li><li class="profile-video-list__card-list__wrapper"><div class="card-container"><div class="video-img"><a href="/item/6612540051878314504/" target="_blank" class="img-wrap" style="width: 158px; height: 102px;"><img src="https://p98.pstatp.com/list/e396000b219a3fbffb3a" class="lazy-load-img"> <i class="pic-tip video-tip"><span class="video-icon"></span> <span class="img-duration">12:24</span></i></a></div> <div class="video-info"><div class="video-info__wrapper"><div class="video-info__content"><div class="video-info__description"><a href="/item/6612540051878314504/" target="_blank" class="description-wrapper"><span class="video-description">张小斐郭京飞即兴小品，叛逆少女张小斐早恋，郭京飞出手解忧排难</span></a></div> <div class="video-info__footer"><span class="video-footer"><span><a href="/item/6612540051878314504/" target="_blank" class="video-info__readTimes"><span>5708播放</span></a>
+          ·
+        </span> <a href="/item/6612540051878314504/#comment" target="_blank" class="comment"><span>5评论</span></a>
+        ·
+        <span class="video-time">2018-10-15 19:12</span> <div data-v-3e7e5b4c="" class="profile-button--delete video-footer__profile-button" style="display: none;"><i data-v-3e7e5b4c="" class="bui-icon icon-delete" style="font-size: 14px; color: rgb(128, 128, 128);"></i>
+  删除
+</div></span></div></div></div></div></div></li><li class="profile-video-list__card-list__wrapper"><div class="card-container"><div class="video-img"><a href="/item/6612533751723328004/" target="_blank" class="img-wrap" style="width: 158px; height: 102px;"><img src="https://p3.pstatp.com/list/e2b0000b40484c38d51b" class="lazy-load-img"> <i class="pic-tip video-tip"><span class="video-icon"></span> <span class="img-duration">12:15</span></i></a></div> <div class="video-info"><div class="video-info__wrapper"><div class="video-info__content"><div class="video-info__description"><a href="/item/6612533751723328004/" target="_blank" class="description-wrapper"><span class="video-description">叶祖新何欢即兴小品：叶祖新秒变帮派老大时软时硬，爆笑全场</span></a></div> <div class="video-info__footer"><span class="video-footer"><span><a href="/item/6612533751723328004/" target="_blank" class="video-info__readTimes"><span>1682播放</span></a>
+          ·
+        </span> <a href="/item/6612533751723328004/#comment" target="_blank" class="comment"><span>0评论</span></a>
+        ·
+        <span class="video-time">2018-10-15 18:48</span> <div data-v-3e7e5b4c="" class="profile-button--delete video-footer__profile-button" style="display: none;"><i data-v-3e7e5b4c="" class="bui-icon icon-delete" style="font-size: 14px; color: rgb(128, 128, 128);"></i>
+  删除
+</div></span></div></div></div></div></div></li><li class="profile-video-list__card-list__wrapper"><div class="card-container"><div class="video-img"><a href="/item/6612525605718065667/" target="_blank" class="img-wrap" style="width: 158px; height: 102px;"><img src="https://p98.pstatp.com/list/e379000a1aaecf7716dc" class="lazy-load-img"> <i class="pic-tip video-tip"><span class="video-icon"></span> <span class="img-duration">09:45</span></i></a></div> <div class="video-info"><div class="video-info__wrapper"><div class="video-info__content"><div class="video-info__description"><a href="/item/6612525605718065667/" target="_blank" class="description-wrapper"><span class="video-description">许君聪叶祖新即兴小品，包袱满满爆笑全场，我的腹肌都快笑出来了</span></a></div> <div class="video-info__footer"><span class="video-footer"><span><a href="/item/6612525605718065667/" target="_blank" class="video-info__readTimes"><span>9播放</span></a>
+          ·
+        </span> <a href="/item/6612525605718065667/#comment" target="_blank" class="comment"><span>0评论</span></a>
+        ·
+        <span class="video-time">2018-10-15 18:16</span> <div data-v-3e7e5b4c="" class="profile-button--delete video-footer__profile-button" style="display: none;"><i data-v-3e7e5b4c="" class="bui-icon icon-delete" style="font-size: 14px; color: rgb(128, 128, 128);"></i>
+  删除
+</div></span></div></div></div></div></div></li><li class="profile-video-list__card-list__wrapper"><div class="card-container"><div class="video-img"><a href="/item/6612520784655024647/" target="_blank" class="img-wrap" style="width: 158px; height: 102px;"><img src="https://p1.pstatp.com/list/e3960004d0802a18d8b7" class="lazy-load-img"> <i class="pic-tip video-tip"><span class="video-icon"></span> <span class="img-duration">06:19</span></i></a></div> <div class="video-info"><div class="video-info__wrapper"><div class="video-info__content"><div class="video-info__description"><a href="/item/6612520784655024647/" target="_blank" class="description-wrapper"><span class="video-description">许君聪张凯丽即兴小品，笑场王的称号刘海柱得让位了，爆笑全场</span></a></div> <div class="video-info__footer"><span class="video-footer"><span><a href="/item/6612520784655024647/" target="_blank" class="video-info__readTimes"><span>9播放</span></a>
+          ·
+        </span> <a href="/item/6612520784655024647/#comment" target="_blank" class="comment"><span>0评论</span></a>
+        ·
+        <span class="video-time">2018-10-15 17:57</span> <div data-v-3e7e5b4c="" class="profile-button--delete video-footer__profile-button" style="display: none;"><i data-v-3e7e5b4c="" class="bui-icon icon-delete" style="font-size: 14px; color: rgb(128, 128, 128);"></i>
+  删除
+</div></span></div></div></div></div></div></li><li class="profile-video-list__card-list__wrapper"><div class="card-container"><div class="video-img"><a href="/item/6612517455841460740/" target="_blank" class="img-wrap" style="width: 158px; height: 102px;"><img src="https://p1.pstatp.com/list/e38e0009f85a44b4a47e" class="lazy-load-img"> <i class="pic-tip video-tip"><span class="video-icon"></span> <span class="img-duration">09:26</span></i></a></div> <div class="video-info"><div class="video-info__wrapper"><div class="video-info__content"><div class="video-info__description"><a href="/item/6612517455841460740/" target="_blank" class="description-wrapper"><span class="video-description">张小斐张凯丽爆笑即兴小品，生活处处是套路，套路满满爆笑全场</span></a></div> <div class="video-info__footer"><span class="video-footer"><span><a href="/item/6612517455841460740/" target="_blank" class="video-info__readTimes"><span>7播放</span></a>
+          ·
+        </span> <a href="/item/6612517455841460740/#comment" target="_blank" class="comment"><span>0评论</span></a>
+        ·
+        <span class="video-time">2018-10-15 17:44</span> <div data-v-3e7e5b4c="" class="profile-button--delete video-footer__profile-button" style="display: none;"><i data-v-3e7e5b4c="" class="bui-icon icon-delete" style="font-size: 14px; color: rgb(128, 128, 128);"></i>
+  删除
+</div></span></div></div></div></div></div></li><li class="profile-video-list__card-list__wrapper"><div class="card-container"><div class="video-img"><a href="/item/6612510183799128579/" target="_blank" class="img-wrap" style="width: 158px; height: 102px;"><img src="https://p1.pstatp.com/list/e39a0000a22bb7e2cea1" class="lazy-load-img"> <i class="pic-tip video-tip"><span class="video-icon"></span> <span class="img-duration">07:31</span></i></a></div> <div class="video-info"><div class="video-info__wrapper"><div class="video-info__content"><div class="video-info__description"><a href="/item/6612510183799128579/" target="_blank" class="description-wrapper"><span class="video-description">张凯丽即兴小品，老戏骨张凯丽进了个假节目组，套路满满爆笑全场</span></a></div> <div class="video-info__footer"><span class="video-footer"><span><a href="/item/6612510183799128579/" target="_blank" class="video-info__readTimes"><span>6播放</span></a>
+          ·
+        </span> <a href="/item/6612510183799128579/#comment" target="_blank" class="comment"><span>0评论</span></a>
+        ·
+        <span class="video-time">2018-10-15 17:16</span> <div data-v-3e7e5b4c="" class="profile-button--delete video-footer__profile-button" style="display: none;"><i data-v-3e7e5b4c="" class="bui-icon icon-delete" style="font-size: 14px; color: rgb(128, 128, 128);"></i>
+  删除
+</div></span></div></div></div></div></div></li><li class="profile-video-list__card-list__wrapper"><div class="card-container"><div class="video-img"><a href="/item/6612505079851254280/" target="_blank" class="img-wrap" style="width: 158px; height: 102px;"><img src="https://p3.pstatp.com/list/e34b0004db78242ec03f" class="lazy-load-img"> <i class="pic-tip video-tip"><span class="video-icon"></span> <span class="img-duration">07:52</span></i></a></div> <div class="video-info"><div class="video-info__wrapper"><div class="video-info__content"><div class="video-info__description"><a href="/item/6612505079851254280/" target="_blank" class="description-wrapper"><span class="video-description">张小斐张凯丽即兴小品，红娘为了业绩把自己女儿往外推，爆笑全场</span></a></div> <div class="video-info__footer"><span class="video-footer"><span><a href="/item/6612505079851254280/" target="_blank" class="video-info__readTimes"><span>6播放</span></a>
+          ·
+        </span> <a href="/item/6612505079851254280/#comment" target="_blank" class="comment"><span>0评论</span></a>
+        ·
+        <span class="video-time">2018-10-15 16:56</span> <div data-v-3e7e5b4c="" class="profile-button--delete video-footer__profile-button" style="display: none;"><i data-v-3e7e5b4c="" class="bui-icon icon-delete" style="font-size: 14px; color: rgb(128, 128, 128);"></i>
+  删除
+</div></span></div></div></div></div></div></li><li class="profile-video-list__card-list__wrapper"><div class="card-container"><div class="video-img"><a href="/item/6612501712504619528/" target="_blank" class="img-wrap" style="width: 158px; height: 102px;"><img src="https://p3.pstatp.com/list/e39200006fa96f9539d1" class="lazy-load-img"> <i class="pic-tip video-tip"><span class="video-icon"></span> <span class="img-duration">05:11</span></i></a></div> <div class="video-info"><div class="video-info__wrapper"><div class="video-info__content"><div class="video-info__description"><a href="/item/6612501712504619528/" target="_blank" class="description-wrapper"><span class="video-description">许君聪张凯丽即兴小品，红娘张凯丽在笑场王刘海柱面前一脸蒙圈</span></a></div> <div class="video-info__footer"><span class="video-footer"><span><a href="/item/6612501712504619528/" target="_blank" class="video-info__readTimes"><span>4播放</span></a>
+          ·
+        </span> <a href="/item/6612501712504619528/#comment" target="_blank" class="comment"><span>0评论</span></a>
+        ·
+        <span class="video-time">2018-10-15 16:43</span> <div data-v-3e7e5b4c="" class="profile-button--delete video-footer__profile-button" style="display: none;"><i data-v-3e7e5b4c="" class="bui-icon icon-delete" style="font-size: 14px; color: rgb(128, 128, 128);"></i>
+  删除
+</div></span></div></div></div></div></div></li><li class="profile-video-list__card-list__wrapper"><div class="card-container"><div class="video-img"><a href="/item/6612499172597694979/" target="_blank" class="img-wrap" style="width: 158px; height: 102px;"><img src="https://p98.pstatp.com/list/e38f000205ba6aedf221" class="lazy-load-img"> <i class="pic-tip video-tip"><span class="video-icon"></span> <span class="img-duration">05:11</span></i></a></div> <div class="video-info"><div class="video-info__wrapper"><div class="video-info__content"><div class="video-info__description"><a href="/item/6612499172597694979/" target="_blank" class="description-wrapper"><span class="video-description">张凯丽爆笑即兴小品，老戏骨张凯丽秒变红娘穿针引线，被各种套路</span></a></div> <div class="video-info__footer"><span class="video-footer"><span><a href="/item/6612499172597694979/" target="_blank" class="video-info__readTimes"><span>5播放</span></a>
+          ·
+        </span> <a href="/item/6612499172597694979/#comment" target="_blank" class="comment"><span>0评论</span></a>
+        ·
+        <span class="video-time">2018-10-15 16:33</span> <div data-v-3e7e5b4c="" class="profile-button--delete video-footer__profile-button" style="display: none;"><i data-v-3e7e5b4c="" class="bui-icon icon-delete" style="font-size: 14px; color: rgb(128, 128, 128);"></i>
+  删除
+</div></span></div></div></div></div></div></li><li class="profile-video-list__card-list__wrapper"><div class="card-container"><div class="video-img"><a href="/item/6612490686774116872/" target="_blank" class="img-wrap" style="width: 158px; height: 102px;"><img src="https://p3.pstatp.com/list/pgc-image/1539590444034dbbb74bcd7" class="lazy-load-img"> <i class="pic-tip video-tip"><span class="video-icon"></span> <span class="img-duration">03:07</span></i></a></div> <div class="video-info"><div class="video-info__wrapper"><div class="video-info__content"><div class="video-info__description"><a href="/item/6612490686774116872/" target="_blank" class="description-wrapper"><span class="video-description">宋茜跳舞魅力四射，不仅会跳舞歌也唱得好听，太完美了！</span></a></div> <div class="video-info__footer"><span class="video-footer"><span><a href="/item/6612490686774116872/" target="_blank" class="video-info__readTimes"><span>451播放</span></a>
+          ·
+        </span> <a href="/item/6612490686774116872/#comment" target="_blank" class="comment"><span>0评论</span></a>
+        ·
+        <span class="video-time">2018-10-15 16:01</span> <div data-v-3e7e5b4c="" class="profile-button--delete video-footer__profile-button" style="display: none;"><i data-v-3e7e5b4c="" class="bui-icon icon-delete" style="font-size: 14px; color: rgb(128, 128, 128);"></i>
+  删除
+</div></span></div></div></div></div></div></li><li class="profile-video-list__card-list__wrapper"><div class="card-container"><div class="video-img"><a href="/item/6612486133471248909/" target="_blank" class="img-wrap" style="width: 158px; height: 102px;"><img src="https://p3.pstatp.com/list/pgc-image/15395893806047007ece6ff" class="lazy-load-img"> <i class="pic-tip video-tip"><span class="video-icon"></span> <span class="img-duration">04:44</span></i></a></div> <div class="video-info"><div class="video-info__wrapper"><div class="video-info__content"><div class="video-info__description"><a href="/item/6612486133471248909/" target="_blank" class="description-wrapper"><span class="video-description">宋茜鞠婧祎劈叉大比拼，鞠婧祎有新招，爆笑全场</span></a></div> <div class="video-info__footer"><span class="video-footer"><span><a href="/item/6612486133471248909/" target="_blank" class="video-info__readTimes"><span>6播放</span></a>
+          ·
+        </span> <a href="/item/6612486133471248909/#comment" target="_blank" class="comment"><span>0评论</span></a>
+        ·
+        <span class="video-time">2018-10-15 15:43</span> <div data-v-3e7e5b4c="" class="profile-button--delete video-footer__profile-button" style="display: none;"><i data-v-3e7e5b4c="" class="bui-icon icon-delete" style="font-size: 14px; color: rgb(128, 128, 128);"></i>
+  删除
+</div></span></div></div></div></div></div></li><li class="profile-video-list__card-list__wrapper"><div class="card-container"><div class="video-img"><a href="/item/6612484074848125448/" target="_blank" class="img-wrap" style="width: 158px; height: 102px;"><img src="https://p3.pstatp.com/list/pgc-image/15395900810895d9cd527f8" class="lazy-load-img"> <i class="pic-tip video-tip"><span class="video-icon"></span> <span class="img-duration">03:23</span></i></a></div> <div class="video-info"><div class="video-info__wrapper"><div class="video-info__content"><div class="video-info__description"><a href="/item/6612484074848125448/" target="_blank" class="description-wrapper"><span class="video-description">宋茜回忆练习生经历，语言不通舞种转变困难，超心疼！</span></a></div> <div class="video-info__footer"><span class="video-footer"><span><a href="/item/6612484074848125448/" target="_blank" class="video-info__readTimes"><span>875播放</span></a>
+          ·
+        </span> <a href="/item/6612484074848125448/#comment" target="_blank" class="comment"><span>0评论</span></a>
+        ·
+        <span class="video-time">2018-10-15 15:35</span> <div data-v-3e7e5b4c="" class="profile-button--delete video-footer__profile-button" style="display: none;"><i data-v-3e7e5b4c="" class="bui-icon icon-delete" style="font-size: 14px; color: rgb(128, 128, 128);"></i>
+  删除
+</div></span></div></div></div></div></div></li> <!----> <!----></ul></div> <!----></div></div></div> <div data-v-7a13d36c="" class="content-right"><div data-v-84d75ca6="" data-v-7a13d36c="" class="profile-follow-abstract"><a data-v-84d75ca6="" href="/c/user/relation/4841965408/?type=following" class="profile-follow-abstract__item">
+    0
+    <div data-v-84d75ca6="">关注</div></a> <a data-v-84d75ca6="" href="/c/user/relation/4841965408/?type=followed" class="profile-follow-abstract__item">
+    39625
+    <div data-v-84d75ca6="">粉丝</div></a></div> <div data-v-7a13d36c="" class="pane-module recent-hot-videos"><div class="module-head">近期热门视频</div> <ul class="module-content video-list"><li class="video-item"><a href="/item/6612540051878314504/" target="_blank" class="link"><dl><dt class="module-pic"><img src="https://p3.pstatp.com/list/300x170/e396000b219a3fbffb3a" alt="张小斐郭京飞即兴小品，叛逆少女张小斐早恋，郭京飞出手解忧排难"> <i class="hot-tag video-tag"><span>12:24</span></i></dt> <dd><div class="cell"><h4>张小斐郭京飞即兴小品，叛逆少女张小斐早恋，郭京飞出手解忧排难</h4> <p><span>5708次播放&nbsp;</span> <!----></p></div></dd></dl></a></li><li class="video-item"><a href="/item/6612547944346288647/" target="_blank" class="link"><dl><dt class="module-pic"><img src="https://p3.pstatp.com/list/300x170/e397000133409c93eae5" alt="包贝尔郭京飞即兴小品，包贝尔上演烧脑“无间道”，结局很暖心"> <i class="hot-tag video-tag"><span>13:53</span></i></dt> <dd><div class="cell"><h4>包贝尔郭京飞即兴小品，包贝尔上演烧脑“无间道”，结局很暖心</h4> <p><span>4780次播放&nbsp;</span> <!----></p></div></dd></dl></a></li><li class="video-item"><a href="/item/6612559049806316039/" target="_blank" class="link"><dl><dt class="module-pic"><img src="https://p3.pstatp.com/list/300x170/9eb40003a6bebc3a6d71" alt="杜淳即兴小品：阳光男孩杜淳被套路到怀疑人生，套路满满爆笑全场"> <i class="hot-tag video-tag"><span>08:51</span></i></dt> <dd><div class="cell"><h4>杜淳即兴小品：阳光男孩杜淳被套路到怀疑人生，套路满满爆笑全场</h4> <p><span>4043次播放&nbsp;</span> <!----></p></div></dd></dl></a></li><li class="video-item"><a href="/item/6612533751723328004/" target="_blank" class="link"><dl><dt class="module-pic"><img src="https://p3.pstatp.com/list/300x170/e2b0000b40484c38d51b" alt="叶祖新何欢即兴小品：叶祖新秒变帮派老大时软时硬，爆笑全场"> <i class="hot-tag video-tag"><span>12:15</span></i></dt> <dd><div class="cell"><h4>叶祖新何欢即兴小品：叶祖新秒变帮派老大时软时硬，爆笑全场</h4> <p><span>1682次播放&nbsp;</span> <!----></p></div></dd></dl></a></li><li class="video-item"><a href="/item/6612566936138023431/" target="_blank" class="link"><dl><dt class="module-pic"><img src="https://p3.pstatp.com/list/300x170/c9da00060f7a2eac5361" alt="许君聪沙溢即兴小品，当即兴王沙溢碰上笑场王刘海柱，全都笑场了"> <i class="hot-tag video-tag"><span>06:03</span></i></dt> <dd><div class="cell"><h4>许君聪沙溢即兴小品，当即兴王沙溢碰上笑场王刘海柱，全都笑场了</h4> <p><span>585次播放&nbsp;</span> <!----></p></div></dd></dl></a></li><li class="video-item"><a href="/item/6612580134165676552/" target="_blank" class="link"><dl><dt class="module-pic"><img src="https://p3.pstatp.com/list/300x170/cce6000b0bdbf78d408f" alt="王宁爆笑即兴小品，王宁为广告创意煞费苦心，套路满满爆笑全场"> <i class="hot-tag video-tag"><span>11:54</span></i></dt> <dd><div class="cell"><h4>王宁爆笑即兴小品，王宁为广告创意煞费苦心，套路满满爆笑全场</h4> <p><span>7次播放&nbsp;</span> <!----></p></div></dd></dl></a></li><li class="video-item"><a href="/item/6612555036767552008/" target="_blank" class="link"><dl><dt class="module-pic"><img src="https://p3.pstatp.com/list/300x170/e2d5000bdc9f77b5e820" alt="杜淳王鸥即兴小品，快递员杜淳被美女王鸥套路到怀疑人生太搞笑了"> <i class="hot-tag video-tag"><span>13:09</span></i></dt> <dd><div class="cell"><h4>杜淳王鸥即兴小品，快递员杜淳被美女王鸥套路到怀疑人生太搞笑了</h4> <p><span>6次播放&nbsp;</span> <!----></p></div></dd></dl></a></li><li class="video-item"><a href="/item/6612575451690828292/" target="_blank" class="link"><dl><dt class="module-pic"><img src="https://p3.pstatp.com/list/300x170/c9da000ad2f11af2dc00" alt="王宁即兴小品，张小斐：客户是河南人，王宁：我也可以是河南人！"> <i class="hot-tag video-tag"><span>05:50</span></i></dt> <dd><div class="cell"><h4>王宁即兴小品，张小斐：客户是河南人，王宁：我也可以是河南人！</h4> <p><span>4次播放&nbsp;</span> <!----></p></div></dd></dl></a></li><li class="video-item"><a href="/item/6612564395882971656/" target="_blank" class="link"><dl><dt class="module-pic"><img src="https://p3.pstatp.com/list/300x170/9eb4000aeeb48f58d3d8" alt="沙溢爆笑即兴小品，即兴王沙溢引全场哄笑，编剧都蒙圈了"> <i class="hot-tag video-tag"><span>06:24</span></i></dt> <dd><div class="cell"><h4>沙溢爆笑即兴小品，即兴王沙溢引全场哄笑，编剧都蒙圈了</h4> <p><span>254次播放&nbsp;</span> <!----></p></div></dd></dl></a></li><li class="video-item"><a href="/item/6612586758225789444/" target="_blank" class="link"><dl><dt class="module-pic"><img src="https://p3.pstatp.com/list/300x170/cfa200089c3df9800033" alt="沙溢王宁即兴小品，沙溢惨被王宁套路，套路满满爆笑全场"> <i class="hot-tag video-tag"><span>07:34</span></i></dt> <dd><div class="cell"><h4>沙溢王宁即兴小品，沙溢惨被王宁套路，套路满满爆笑全场</h4> <p><span>1次播放&nbsp;</span> <!----></p></div></dd></dl></a></li></ul></div></div></div> <footer data-v-0c9ca243="" data-v-7a13d36c="" class="ixigua-footer"><div data-v-0ac3c3a4="" data-v-0c9ca243="" class="ixigua-footer__row"><div data-v-0c9ca243="" class="site-item" data-v-0ac3c3a4=""><span class="unclickable font-size-12">Copyright © 2017 西瓜视频 版权所有</span> <div class="unclickable font-size-12"></div></div><div data-v-0c9ca243="" class="site-item" data-v-0ac3c3a4=""><span class="unclickable font-size-12"></span> <a href="http://www.12377.cn/" target="_blank" class="clickable font-size-12"><!---->
+    中国互联网举报中心
+  </a></div><div data-v-0c9ca243="" class="site-item" data-v-0ac3c3a4=""><span class="unclickable font-size-12"></span> <a href="http://www.miibeian.gov.cn/state/outPortal/loginPortal.action" target="_blank" class="clickable font-size-12"><!---->
+    晋ICP备17000179号-3
+  </a></div><div data-v-0c9ca243="" class="site-item" data-v-0ac3c3a4=""><span class="unclickable font-size-12">请使用者仔细阅读 </span> <a href="//www.ixigua.com/agreement/" target="_blank" class="clickable font-size-12"><!---->
+    用户协议
+  </a></div><div data-v-0c9ca243="" class="site-item" data-v-0ac3c3a4=""><span class="unclickable font-size-12"></span> <a href="//www.ixigua.com/complaint/" target="_blank" class="clickable font-size-12"><!---->
+    投诉指引
+  </a></div></div> <div data-v-0ac3c3a4="" data-v-0c9ca243="" class="ixigua-footer__row"><div data-v-0c9ca243="" class="site-item" data-v-0ac3c3a4=""><span class="unclickable font-size-12"></span> <a href="//www.ixigua.com/crawler_manifesto/" target="_blank" class="clickable font-size-12"><!---->
+    防盗链、防抓取声明
+  </a></div><div data-v-0c9ca243="" class="site-item" data-v-0ac3c3a4=""><span class="unclickable font-size-12"></span> <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=14080202000216" target="_blank" class="clickable font-size-12"><img src="//s3.pstatp.com/toutiao/resource/ntoutiao_web/static/image/gongan_d0289dc.png" class="site-item__image">
+    晋公网安备 14080202000216号
+  </a></div></div></footer></div><script>var ownerInfo = {
+     id: 4841965408,
+     name: '综合娱乐快报',
+     avatarUrl: 'https://p3.pstatp.com/thumb/b728000033b75e1ba67d',
+     isSelf: false,
+     description: '综合娱乐快报，品视频，享人生。',
+     ugcPublishMediaId: '1595514214261768',
+     // mid, 用于获取当前owner的热门视频
+     mediaId: 1595514214261768,
+     isVerified: true,
+     isVisitorFollowing: false,
+     bg_img:'https://s2.pstatp.com/site/promotion/landing_page/img/profilebg@2x_55d77b9bc7f26237f8512ee5d551ffd6.png'||'//s2.pstatp.com/site/promotion/landing_page/img/profilebg@2x_55d77b9bc7f26237f8512ee5d551ffd6.png',
+  };
+
+  var visitorInfo = {
+    id: 0,
+    userName:'',
+    // userName 与 name分别需要被header, 关注列表使用
+    name:'',
+    avatarUrl:'',
+  };
+
+  var media = {
+    id:'0',
+    like:false
+  };
+
+  var header={
+    bg_img:'https://s2.pstatp.com/site/promotion/landing_page/img/profilebg@2x_55d77b9bc7f26237f8512ee5d551ffd6.png'||'//s2.pstatp.com/site/promotion/landing_page/img/profilebg@2x_55d77b9bc7f26237f8512ee5d551ffd6.png',
+    avtar_img:'https://p3.pstatp.com/thumb/b728000033b75e1ba67d',
+    name:'综合娱乐快报',
+    abstract:'综合娱乐快报，品视频，享人生。',
+    media_id:'4841965408',
+    like:media.like,
+    liked:false,
+    home_url:'/c/user/4841965408/',
+    right_knight_sign_status: '',
+    kbanquan_sign_status: ''
+  };
+
+  var followAbstract = {
+    followingUrl: '/c/user/relation/' + '4841965408' + '/?type=following',
+    followedUrl: '/c/user/relation/' + '4841965408' + '/?type=followed',
+    followingNum: 0,
+    followedNum: 39625
+  }
+
+  function getStartTab () {
+    var favouriteReg = /favourite/gi;
+    // 根据localtion.href来判断当前是展示following还是followed
+    // second与first时ProfileTab钟的配置项
+    return favouriteReg.test(window.location.href) ? 'second': 'first';
+  }
+
+  var START_TAB = getStartTab();</script><script type="text/javascript" src="//s3b.pstatp.com/toutiao/xigua_video/pc/static/js/vendor.584df7606d8ef399e77e.js"></script><script type="text/javascript" src="//s3.pstatp.com/toutiao/xigua_video/pc/static/js/page/profile-video/profile-video.e915d27a37c960b909ac.js"></script><script type="text/javascript" src="//s3b.pstatp.com/toutiao/xigua_video/pc/static/js/ttstatistics.daa74cea366cc1e2f675.js"></script><script type="text/javascript" src="//s3.pstatp.com/toutiao/xigua_video/pc/static/js/page/index2/data.722454ffd78b8a83bb39.js"></script><script>// 设置ga的sample rate
+  // var _gaq = _gaq || [];
+  // _gaq.push(['_setSampleRate', '20']);
+  (function (i, s, o, g, r, a, m) {
+    i['GoogleAnalyticsObject'] = r;
+    i[r] = i[r] || function () {
+      (i[r].q = i[r].q || []).push(arguments);
+    }, i[r].l = 1 * new Date();
+    a = s.createElement(o),
+      m = s.getElementsByTagName(o)[0];
+    a.async = 1;
+    a.src = g;
+    m.parentNode.insertBefore(a, m);
+  })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+  ga('create', 'UA-89504546-4', {
+    sampleRate: '5'
+  });
+  ga('send', 'pageview');</script><script src="//s3.pstatp.com/toutiao/monitor/sdk/slardar.js"></script><style>a[href^='http://www.cnzz.com/stat'] {
+    display: none!important;
+  }</style><script src="https://s22.cnzz.com/z_stat.php?id=1262382642&amp;web_id=1262382642" async="" language="JavaScript"></script><script src="//s3.pstatp.com/inapp/lib/raven.js" crossorigin="anonymous" async=""></script><script>if (window.Raven) {
+    window.Raven.config('//0355d7f3eda849d296aaad9a4eec0a00@m.toutiao.com/log/sentry/v2/112', {}).install();
+  }</script><script>// 示例
+  window.Slardar && window.Slardar.install({
+    sampleRate: 1,   // 采样率 (0, 1]
+    bid: 'ixigua_pc', // 业务标识
+    pid: 'index',  // 页面标识
+    ignoreAjax: [/action_log/],    // 无需监控的ajax url规则集
+    ignoreStatic: []   // 无需监控的静态资源 url规则集
+  });</script></body></html>
