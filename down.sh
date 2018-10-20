@@ -15,11 +15,11 @@ do
 	a3=`echo $item | cut -d' ' -f $i`
 	a4=`echo "$a1 $a2 $a3"`
 #	echo $a4
-	grep -q "$a4" update.log
+	grep -q "$a4" $down/update.log
 	if [[ $? == 0 ]]; then
 		echo "no update"
 	else
-		echo -e "$a4" >> update.log
+		echo -e "$a4" >> $down/update.log
 		echo $a3
 ### for make sure get the right url	
 		n=0
