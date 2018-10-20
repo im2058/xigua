@@ -13,13 +13,20 @@ from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 import selenium.webdriver.support.ui as ui
 
 warnings.filterwarnings('ignore')
+
+service_args=[]
+service_args.append('--load-images=no')
+service_args.append('--disk-cache=yes')
+service_args.append('--ignore-ssl-errors=true')
+
+
 dcap = dict(DesiredCapabilities.PHANTOMJS)
 dcap["phantomjs.page.settings.userAgent"] = (
-        "Mozilla/5.0 (Linux; Android 5.1.1; Nexus 6 Build/LYZ28E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.23 Mobile Safari/537.36"
+        "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.221 Safari/537.36 SE 2.X MetaSr 1.0"
         )
-#browser = webdriver.PhantomJS(desired_capabilities=dcap)
+driver = webdriver.PhantomJS(desired_capabilities=dcap)
 
-driver = webdriver.PhantomJS()
+#driver = webdriver.PhantomJS()
 driver.implicitly_wait(10)
 waiter = ui.WebDriverWait(driver, 20)
 
@@ -34,15 +41,19 @@ try:
     waiter.until(lambda driver: driver.find_element_by_id(str(wtid)))
 #    content = driver.find_element_by_id("vjs_video_3_html5_api").src
     content = driver.page_source
+    driver.quit()
     log = open(str(index),'w')
     log.write(content)
     log.close()
 except Exception as e:
 #(errors.TimeoutException, errors.NoSuchElementException):
+    driver.get_screenshot_as_file('01.png')
     print(e)
     driver.get(str(url))
-    driver.refresh()
+    waiter.until(lambda driver: driver.find_element_by_id(str(wtid)))
+#    driver.refresh()
     content = driver.page_source
+    driver.quit()
     log = open(str(index),'w')
     log.write(content)
     log.close()

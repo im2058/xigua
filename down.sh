@@ -18,11 +18,17 @@ do
 	else
 		echo -e "$a4" >> update.log
 		echo $a3
-		python -W ignore py_script/xigua.py https://www.ixigua.com/i"$a3" video_html vjs_video_3_html5_api
-		videourl=`grep 'video/mp4' video_html | sed 's/.*video\/mp4" src="\(.*\)\/"><\/video.*/\1/g'`
+		python -W ignore py_script/xigua.py https://www.ixigua.com/a"$a3" video_html vjs_video_3_html5_api
+		videourl=`grep 'video/mp4' video_html | sed 's/.*video\/mp4" src="\(.*\)"><\/video.*/\1/g'`
 		echo $videourl
+		echo $videourl | grep -q "AWSAccessKeyId" 
+		if [[ $? == 0 ]]; then
+			python -W ignore py_script/xigua.py https://www.ixigua.com/a"$a3" video_html vjs_video_3_html5_api
+			videourl=`grep 'video/mp4' video_html | sed 's/.*video\/mp4" src="\(.*\)"><\/video.*/\1/g'`
+			echo $videourl
+		fi
 #		aria2c $videourl/\#mp4 -o ${a3}.mp4
-#		python ml.py
+		python py_script/ml.py $a3
 	fi
 	i=`expr $i + 1`
 done
