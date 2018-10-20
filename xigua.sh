@@ -11,7 +11,7 @@ for sr in `ls $sourdir`
 do
 	while read line
 	do
-#		echo $line
+		echo $line
 		url=`echo $line | awk '{print $1}'`
 		idurl=`echo $line | cut -d'/' -f 6`
 		echo $idurl

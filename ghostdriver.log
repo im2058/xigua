@@ -1,25 +1,19 @@
-[INFO  - 2018-10-20T13:43:52.702Z] GhostDriver - Main - running on port 56881
-[INFO  - 2018-10-20T13:43:53.393Z] Session [2eedfd40-d46e-11e8-a383-87888d5e56e6] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.221 Safari/537.36 SE 2.X MetaSr 1.0","webSecurityEnabled":true}
-[INFO  - 2018-10-20T13:43:53.394Z] Session [2eedfd40-d46e-11e8-a383-87888d5e56e6] - page.customHeaders:  - {}
-[INFO  - 2018-10-20T13:43:53.394Z] Session [2eedfd40-d46e-11e8-a383-87888d5e56e6] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.userAgent":"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.221 Safari/537.36 SE 2.X MetaSr 1.0"}
-[INFO  - 2018-10-20T13:43:53.395Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 2eedfd40-d46e-11e8-a383-87888d5e56e6
-[ERROR - 2018-10-20T13:44:02.327Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1540043042270
+[INFO  - 2018-10-20T15:00:34.770Z] GhostDriver - Main - running on port 60385
+[INFO  - 2018-10-20T15:00:35.467Z] Session [e5fae7f0-d478-11e8-90b8-d388e288096c] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.221 Safari/537.36 SE 2.X MetaSr 1.0","webSecurityEnabled":true}
+[INFO  - 2018-10-20T15:00:35.467Z] Session [e5fae7f0-d478-11e8-90b8-d388e288096c] - page.customHeaders:  - {}
+[INFO  - 2018-10-20T15:00:35.468Z] Session [e5fae7f0-d478-11e8-90b8-d388e288096c] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.userAgent":"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.221 Safari/537.36 SE 2.X MetaSr 1.0"}
+[INFO  - 2018-10-20T15:00:35.468Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: e5fae7f0-d478-11e8-90b8-d388e288096c
+[ERROR - 2018-10-20T15:00:38.046Z] Session [e5fae7f0-d478-11e8-90b8-d388e288096c] - page.onError - msg: VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) No compatible source was found for this media. [object Object]
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2018-10-20T13:44:09.255Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1540043049202
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2018-10-20T13:44:13.697Z] Session [2eedfd40-d46e-11e8-a383-87888d5e56e6] - page.onError - msg: VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) No compatible source was found for this media. [object Object]
-
-  phantomjs://platform/console++.js:263 in error
-[ERROR - 2018-10-20T13:44:13.697Z] Session [2eedfd40-d46e-11e8-a383-87888d5e56e6] - page.onError - stack:
+[ERROR - 2018-10-20T15:00:38.062Z] Session [e5fae7f0-d478-11e8-90b8-d388e288096c] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2018-10-20T13:44:13.749Z] Session [2eedfd40-d46e-11e8-a383-87888d5e56e6] - page.onError - msg: TypeError: undefined is not an object (evaluating 'this.tech_.one')
+[ERROR - 2018-10-20T15:00:38.097Z] Session [e5fae7f0-d478-11e8-90b8-d388e288096c] - page.onError - msg: TypeError: undefined is not an object (evaluating 'this.tech_.one')
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2018-10-20T13:44:13.750Z] Session [2eedfd40-d46e-11e8-a383-87888d5e56e6] - page.onError - stack:
+[ERROR - 2018-10-20T15:00:38.098Z] Session [e5fae7f0-d478-11e8-90b8-d388e288096c] - page.onError - stack:
   play (https://s3.pstatp.com/toutiao/video_player/dist/tt-video.js:2)
   (anonymous function) (https://s3.pstatp.com/toutiao/video_player/dist/tt-video.js:1)
   (anonymous function) (https://s3.pstatp.com/toutiao/video_player/dist/tt-video.js:1)
@@ -28,10 +22,10 @@
   r (https://s3.pstatp.com/toutiao/video_player/dist/tt-video.js:2)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2018-10-20T13:44:13.834Z] Session [2eedfd40-d46e-11e8-a383-87888d5e56e6] - page.onError - msg: VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) No compatible source was found for this media. [object Object]
+[ERROR - 2018-10-20T15:00:38.146Z] Session [e5fae7f0-d478-11e8-90b8-d388e288096c] - page.onError - msg: VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) No compatible source was found for this media. [object Object]
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2018-10-20T13:44:13.835Z] Session [2eedfd40-d46e-11e8-a383-87888d5e56e6] - page.onError - stack:
+[ERROR - 2018-10-20T15:00:38.147Z] Session [e5fae7f0-d478-11e8-90b8-d388e288096c] - page.onError - stack:
   apply (:0)
 
   phantomjs://platform/console++.js:263 in error
