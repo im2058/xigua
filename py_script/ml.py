@@ -7,12 +7,11 @@ import os
 
 vid = sys.argv[1]
 tm= time.strftime('%m-%d-%H:%M',time.localtime(time.time()))
-msg_from='shadow_vvip@qq.com'                     #发送方邮箱
-passwd='osgxiiznkvpebich'                       #填入发送方邮箱的授权码
-msg_to='10438075@qq.com'                      #收件人邮箱
-#msg_to='m2058@sina.cn'                      #收件人邮箱
+msg_from='1571987386@qq.com'                     #发送方邮箱
+passwd='mlqszvmesfrwecec'                       #填入发送方邮箱的授权码
+msg_to='528501030@qq.com'                      #收件人邮箱
                             
-subject="Crazy update"+str(tm)
+subject="video update"+str(tm)
 content="http://www.youtube.com/watch?v="+str(vid)   
 
 msg = MIMEText(content)
