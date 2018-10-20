@@ -3,7 +3,7 @@
 
 basedir=`pwd`
 sourdir='/home/pi/KK/xigua/source'
-down='/home/pi/KK/xigua/down'
+#down='/home/pi/KK/xigua/down'
 py='/home/pi/KK/xigua/py_script'
 tmpdir='/home/pi/KK/xigua/tmp'
 #cd $sourdir
@@ -18,7 +18,7 @@ do
 		python -W ignore $py/xigua.py $url $tmpdir/$idurl profile-page
 		rm -rf $sourdir/ghostdriver*
 		
-		bash $basedir/down.sh $tmpdir/$idurl	
+		bash $basedir/down.sh $tmpdir/$idurl $sr
 	done < $sourdir/$sr
 done
 cd $basedir

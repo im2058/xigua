@@ -1,5 +1,31 @@
-[INFO  - 2018-10-20T00:40:08.796Z] GhostDriver - Main - running on port 41003
-[INFO  - 2018-10-20T00:40:09.459Z] Session [b27d1330-d400-11e8-a9b4-e3cc29338134] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.221 Safari/537.36 SE 2.X MetaSr 1.0","webSecurityEnabled":true}
-[INFO  - 2018-10-20T00:40:09.459Z] Session [b27d1330-d400-11e8-a9b4-e3cc29338134] - page.customHeaders:  - {}
-[INFO  - 2018-10-20T00:40:09.459Z] Session [b27d1330-d400-11e8-a9b4-e3cc29338134] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.userAgent":"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.221 Safari/537.36 SE 2.X MetaSr 1.0"}
-[INFO  - 2018-10-20T00:40:09.459Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: b27d1330-d400-11e8-a9b4-e3cc29338134
+[INFO  - 2018-10-20T10:00:15.230Z] GhostDriver - Main - running on port 42269
+[INFO  - 2018-10-20T10:00:15.927Z] Session [f17f4eb0-d44e-11e8-8b76-eff64971b0fc] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.221 Safari/537.36 SE 2.X MetaSr 1.0","webSecurityEnabled":true}
+[INFO  - 2018-10-20T10:00:15.927Z] Session [f17f4eb0-d44e-11e8-8b76-eff64971b0fc] - page.customHeaders:  - {}
+[INFO  - 2018-10-20T10:00:15.928Z] Session [f17f4eb0-d44e-11e8-8b76-eff64971b0fc] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.userAgent":"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.221 Safari/537.36 SE 2.X MetaSr 1.0"}
+[INFO  - 2018-10-20T10:00:15.928Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: f17f4eb0-d44e-11e8-8b76-eff64971b0fc
+[ERROR - 2018-10-20T10:00:18.482Z] Session [f17f4eb0-d44e-11e8-8b76-eff64971b0fc] - page.onError - msg: VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) No compatible source was found for this media. [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-10-20T10:00:18.499Z] Session [f17f4eb0-d44e-11e8-8b76-eff64971b0fc] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-10-20T10:00:18.527Z] Session [f17f4eb0-d44e-11e8-8b76-eff64971b0fc] - page.onError - msg: TypeError: undefined is not an object (evaluating 'this.tech_.one')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-10-20T10:00:18.527Z] Session [f17f4eb0-d44e-11e8-8b76-eff64971b0fc] - page.onError - stack:
+  play (https://s3.pstatp.com/toutiao/video_player/dist/tt-video.js:2)
+  (anonymous function) (https://s3.pstatp.com/toutiao/video_player/dist/tt-video.js:1)
+  (anonymous function) (https://s3.pstatp.com/toutiao/video_player/dist/tt-video.js:1)
+  forEach (:0)
+  (anonymous function) (https://s3.pstatp.com/toutiao/video_player/dist/tt-video.js:1)
+  r (https://s3.pstatp.com/toutiao/video_player/dist/tt-video.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-10-20T10:00:18.603Z] Session [f17f4eb0-d44e-11e8-8b76-eff64971b0fc] - page.onError - msg: VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) No compatible source was found for this media. [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-10-20T10:00:18.603Z] Session [f17f4eb0-d44e-11e8-8b76-eff64971b0fc] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error

@@ -27,8 +27,8 @@ dcap["phantomjs.page.settings.userAgent"] = (
 driver = webdriver.PhantomJS(desired_capabilities=dcap)
 
 #driver = webdriver.PhantomJS()
-driver.implicitly_wait(10)
-waiter = ui.WebDriverWait(driver, 20)
+driver.implicitly_wait(5)
+waiter = ui.WebDriverWait(driver,10)
 
 #browser.set_page_load_timeout(50)  
 #browser.set_script_timeout(50)
@@ -41,7 +41,7 @@ try:
     waiter.until(lambda driver: driver.find_element_by_id(str(wtid)))
 #    content = driver.find_element_by_id("vjs_video_3_html5_api").src
     content = driver.page_source
-    driver.quit()
+#    driver.quit()
     log = open(str(index),'w')
     log.write(content)
     log.close()
@@ -50,8 +50,7 @@ except Exception as e:
     driver.get_screenshot_as_file('01.png')
     print(e)
     driver.get(str(url))
-    waiter.until(lambda driver: driver.find_element_by_id(str(wtid)))
-#    driver.refresh()
+    #waiter.until(lambda driver: driver.find_element_by_id(str(wtid)))
     content = driver.page_source
     driver.quit()
     log = open(str(index),'w')
