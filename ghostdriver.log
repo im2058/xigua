@@ -1,8 +1,38 @@
-[INFO  - 2018-10-27T01:31:51.560Z] GhostDriver - Main - running on port 43407
-[INFO  - 2018-10-27T01:31:52.232Z] Session [14c6e980-d988-11e8-9114-3deb2b86d9bd] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.221 Safari/537.36 SE 2.X MetaSr 1.0","webSecurityEnabled":true}
-[INFO  - 2018-10-27T01:31:52.232Z] Session [14c6e980-d988-11e8-9114-3deb2b86d9bd] - page.customHeaders:  - {}
-[INFO  - 2018-10-27T01:31:52.233Z] Session [14c6e980-d988-11e8-9114-3deb2b86d9bd] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.userAgent":"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.221 Safari/537.36 SE 2.X MetaSr 1.0"}
-[INFO  - 2018-10-27T01:31:52.233Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 14c6e980-d988-11e8-9114-3deb2b86d9bd
-[ERROR - 2018-10-27T01:32:00.143Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1540603920102
+[INFO  - 2018-10-27T01:32:19.440Z] GhostDriver - Main - running on port 43525
+[INFO  - 2018-10-27T01:32:20.163Z] Session [256b0370-d988-11e8-b3b1-531610be8c0d] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.221 Safari/537.36 SE 2.X MetaSr 1.0","webSecurityEnabled":true}
+[INFO  - 2018-10-27T01:32:20.164Z] Session [256b0370-d988-11e8-b3b1-531610be8c0d] - page.customHeaders:  - {}
+[INFO  - 2018-10-27T01:32:20.164Z] Session [256b0370-d988-11e8-b3b1-531610be8c0d] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"linux-unknown-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.userAgent":"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.221 Safari/537.36 SE 2.X MetaSr 1.0"}
+[INFO  - 2018-10-27T01:32:20.165Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 256b0370-d988-11e8-b3b1-531610be8c0d
+[ERROR - 2018-10-27T01:32:28.486Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1540603948434
 
   phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-10-27T01:32:35.508Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1540603955499
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-10-27T01:32:40.018Z] Session [256b0370-d988-11e8-b3b1-531610be8c0d] - page.onError - msg: VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) No compatible source was found for this media. [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-10-27T01:32:40.028Z] Session [256b0370-d988-11e8-b3b1-531610be8c0d] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-10-27T01:32:40.112Z] Session [256b0370-d988-11e8-b3b1-531610be8c0d] - page.onError - msg: TypeError: undefined is not an object (evaluating 'this.tech_.one')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-10-27T01:32:40.113Z] Session [256b0370-d988-11e8-b3b1-531610be8c0d] - page.onError - stack:
+  play (https://s3.pstatp.com/toutiao/video_player/dist/tt-video.js:2)
+  (anonymous function) (https://s3.pstatp.com/toutiao/video_player/dist/tt-video.js:1)
+  (anonymous function) (https://s3.pstatp.com/toutiao/video_player/dist/tt-video.js:1)
+  forEach (:0)
+  (anonymous function) (https://s3.pstatp.com/toutiao/video_player/dist/tt-video.js:1)
+  r (https://s3.pstatp.com/toutiao/video_player/dist/tt-video.js:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-10-27T01:32:40.177Z] Session [256b0370-d988-11e8-b3b1-531610be8c0d] - page.onError - msg: VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) No compatible source was found for this media. [object Object]
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2018-10-27T01:32:40.179Z] Session [256b0370-d988-11e8-b3b1-531610be8c0d] - page.onError - stack:
+  apply (:0)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2018-10-27T01:37:19.439Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW

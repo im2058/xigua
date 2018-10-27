@@ -11,7 +11,7 @@ tm= time.strftime('%m-%d-%H:%M',time.localtime(time.time()))
 msg_from='shadow_vvip@qq.com'                     #发送方邮箱
 passwd='bvnlxngvwiynbiba'                       #填入发送方邮箱的授权码
 #msg_from='1571987386@qq.com'                     #发送方邮箱
-msg_to=['528501030@qq.com','1571987386@qq.com']                      #收件人邮箱
+msg_to=['528501030@qq.com']                      #收件人邮箱
                             
 subject="video update--"+str(tm)+"--------"+str(sr)
 content=str(vid)
