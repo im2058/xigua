@@ -11,5 +11,6 @@ python ../py_script/kk.py "$ipa" "source_and_download dir"
 #crontab -e 
 #*/30 * * * * cd /home/pi/KK/xigua && bash xigua.sh > tmp/cron.log
 
+
 usb=`ls /dev/sd*`
 sudo mount -t vfat -o umask=000 $usb /home/pi/KK/xigua/download
